@@ -172,7 +172,7 @@ projects:
 
 technical_skills:
   - Core Languages: Typescript, Kotlin, Java, Swift, Python, Rust
-  - Libraries and Frameworks: React, Redux (Saga), React Native, Android, SwiftUI, GraphQL, Xstate, Solana, Sui
+  - Libraries and Frameworks: React, Redux (Saga), React Native, Cypress, Jest, Android, SwiftUI, GraphQL, Xstate, Solana, Sui
   - Tools: Git, Docker
 
 education:
