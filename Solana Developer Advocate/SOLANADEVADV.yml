@@ -1,0 +1,110 @@
+SOLANA DEVELOPER ADVOCATE
+
+companies:
+  - name: Prosper
+    position: Staff Engineer
+    start_date: March 21, 2022
+    end_date: CURRENT
+    description: |-
+      Led company wide effort to establish a library of shared React components, built with styled-components to increase consistency and reduce duplication
+      Interfaced with various teams across Product, UX, and Engineering to ensure buy-in with key decisions and solid planning
+      Led "North Star" Front End meetings to discuss and plan on implementations for best practices across the company's suite of Front End Applications
+    relevant_for:
+      - front end engineering
+
+  - name: Bakkt, LLC
+    position: Senior React / Native Engineer / Team Onboarding Director / Refactoring Lead
+    start_date: November 2020
+    end_date: March 2022
+    description: |-
+      Led refactoring efforts, adopted Atomic Design principles, and standardized best practices.
+      Collaborated with VP of Design to establish scalable DesignOps.
+      Applied Finite State Machines for modeling and simplifying interactions.
+      Implemented pair programming to enhance code quality and team morale.
+      Guided new team members through codebase and technical debt management.
+    relevant_for:
+      - front end engineering
+      - managing
+      - cryptocurrency
+
+  - name: Team Treehouse
+    position: Android Guest Lecturer
+    start_date: October 2017
+    end_date: February 2018
+    description: |-
+      Designed, created, and recorded three courses for Firebase for Android and Styling Android Applications
+    relevant_for:
+      - teaching/education
+
+  - name: TCT Networks
+    position: Senior Full Stack Engineer (React / React Native / GraphQL / Android / iOS)
+    start_date: January 2015
+    end_date: July 2020
+    description: |-
+      Maintained senior level problem solving skills and technical knowledge by staying on the leading edge with emerging technical solutions and design techniques.
+      Significantly reduced codebase size across platforms by utilizing React Native for Android and iOS.
+      Implemented GraphQL solution to consolidate API calls across various clients.
+      Built green field software to manage media catalog and streaming applications on Android devices, tablets, Android TV, and iOS using native Kotlin, Java, and Swift.
+      Monitored and fixed application bugs using Sentry.
+      Interfaced with Brightcove APIs for displaying and streaming live and on-demand content.
+    relevant_for:
+      - front end engineering
+      - managing
+
+  - name: ASG @ Google
+    position: Android Subject Matter Expert and Course Creator
+    start_date: January 2016
+    end_date: December 2016
+    description: |-
+      Significantly improved clarity for students and quality of code for the Android Fundamentals course created in conjunction between Google and Udacity.
+      Created interactive TODOs for students to easily follow along in the IDE.
+      Created a python script to help in cleanly applying fixes to the delicate commit history and to create the folder structure for the students.
+    relevant_for:
+      - teaching/education
+
+  - name: Bloc.io
+    position: Android Mentor
+    start_date: May 2015
+    end_date: September 2017
+    description: |-
+      Assist dozens of students new to programming through content, created by Bloc.io, to help them learn both Java and Android programming.
+    relevant_for:
+      - teaching/education
+
+projects:
+  - name: Organic Software
+    description: Building an LLM integrated with a Speech Transcription application that will allow the user to speak to it to alter its functionality and layout
+    technologies: SwiftUI, The Composable Architecture
+    relevant_for:
+      - teaching/education
+      - front end engineering
+
+  - name: Proof of Listening - Solana Grizzlython
+    description: Built a Shazam like application for Podcasts that integrated with the Solana blockchain to allow users to mint "Proof of Listening" tickets. Created custom Solana Program to handle custom dynamic mint pricing based on metadata stored in a Program Derived Metadata Account.
+    technologies: Swift Server, Websockets, Kitura, Swift, SwiftUI, React, Solana, Rust
+    relevant_for:
+      - front end engineering
+      - cryptocurrency
+
+  - name: mtnBooth Twitter Solana Pay Integration
+    description: A web-based application that allowed users to mint a mtnFrens NFT with a QR code and then display a Twitter card declaring their new purchase
+    technologies: NextJS, Open Graph, Solana, Solana Pay
+    relevant_for:
+      - front end engineering
+      - cryptocurrency
+
+  - name: Winner Orlando ODevs XState 2023 Hackathon - NoIssue
+    description: React Component built to directly integrate with Project Management software to enable easily adding issues from within your web application
+    technologies: XState, React
+    relevant_for:
+      - front end engineering
+
+technical_skills:
+  - Core Languages: Typescript, Kotlin, Java, Swift, Python, Rust
+  - Libraries and Frameworks: React, Redux (Saga), React Native, Android, SwiftUI, GraphQL, Xstate, Solana, Sui
+  - Tools: Git, Docker
+
+education:
+  - university: Florida State University
+    degree: B.S. in Computer Science
+    year: 2015
