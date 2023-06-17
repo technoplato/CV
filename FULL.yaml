@@ -23,6 +23,7 @@ companies:
     relevant_for:
       - front end engineering
       - managing
+      - cryptocurrency
 
   - name: Sam's Club
     position: React Native Engineer
@@ -73,6 +74,7 @@ companies:
     relevant_for:
       - front end engineering
       - managing
+      - cryptocurrency
 
   - name: Omicron Media
     position: Android Developer
@@ -133,12 +135,14 @@ projects:
     technologies: Swift Server, Websockets, Kitura, Swift, SwiftUI, React, Solana, Rust
     relevant_for:
       - front end engineering
+      - cryptocurrency
 
   - name: mtnBooth Twitter Solana Pay Integration
     description: A web-based application that allowed users to mint a mtnFrens NFT with a QR code and then display a Twitter card declaring their new purchase
     technologies: NextJS, Open Graph, Solana, Solana Pay
     relevant_for:
       - front end engineering
+      - cryptocurrency
 
   - name: Beauty Time
     description: Mobile application for aestheticians to allow them to configure and track multiple dual-sided timers for eyebrow and eyelash procedures
