@@ -6,6 +6,8 @@
     Led company wide effort to establish a library of shared React components, built with styled-components to increase consistency and reduce duplication
     Interfaced with various teams across Product, UX, and Engineering to ensure buy-in with key decisions and solid planning
     Led "North Star" Front End meetings to discuss and plan on implementations for best practices across the company's suite of Front End Applications
+  relevant_for:
+    - front end engineering
 
 - company: Bakkt, LLC
   position: Senior React / Native Engineer / Team Onboarding Director / Refactoring Lead
@@ -17,6 +19,9 @@
     Applied Finite State Machines for modeling and simplifying interactions.
     Implemented pair programming to enhance code quality and team morale.
     Guided new team members through codebase and technical debt management.
+  relevant_for:
+    - front end engineering
+    - managing
 
 - company: Sam's Club
   position: React Native Engineer
@@ -27,6 +32,8 @@
     Quickly on-boarded and begin helping organize team's efforts in fast approaching in-club release of 'MyClub' application
     Refactor multiple legacy components to use industry best practices in React by using unit tests, hooks, and React Context
     Collaborate with mobile and design product team to develop features for handling associate tasks in In-House MyClub application
+  relevant_for:
+    - front end engineering
 
 - company: Team Treehouse
   position: Android Guest Lecturer
@@ -34,6 +41,8 @@
   end_date: February 2018
   description: |-
     Designed, created, and recorded three courses for Firebase for Android and Styling Android Applications
+  relevant_for:
+    - teaching/education
 
 - company: TCT Networks
   position: Senior Full Stack Engineer (React / React Native / GraphQL / Android / iOS)
@@ -46,6 +55,9 @@
     Built green field software to manage media catalog and streaming applications on Android devices, tablets, Android TV, and iOS using native Kotlin, Java, and Swift.
     Monitored and fixed application bugs using Sentry.
     Interfaced with Brightcove APIs for displaying and streaming live and on-demand content.
+  relevant_for:
+    - front end engineering
+    - managing
 
 - company: Self-Employed Software Contractor (Multiple Clients)
   position: Fullstack Software Engineer
@@ -57,6 +69,9 @@
     Collaborated with designers to create and then create mockups in code.
     Developed multiple field React Native applications in various domains.
     Built mtnBooth Twitter / Solana Wallet integration for Solana Pay.
+  relevant_for:
+    - front end engineering
+    - managing
 
 - company: Omicron Media
   position: Android Developer
@@ -67,6 +82,8 @@
     Used JIRA for bug tracking, issue tracking, and project management functions.
     Excellent communication and teamwork working on-site and remote in an agile environment.
     Used git flow to maintain and organize code changes.
+  relevant_for:
+    - front end engineering
 
 - company: ASG @ Google
   position: Android Subject Matter Expert and Course Creator
@@ -76,6 +93,8 @@
     Significantly improved clarity for students and quality of code for the Android Fundamentals course created in conjunction between Google and Udacity.
     Created interactive TODOs for students to easily follow along in the IDE.
     Created a python script to help in cleanly applying fixes to the delicate commit history and to create the folder structure for the students.
+  relevant_for:
+    - teaching/education
 
 - company: Bloc.io
   position: Android Mentor
@@ -83,6 +102,8 @@
   end_date: September 2017
   description: |-
     Assist dozens of students new to programming through content, created by Bloc.io, to help them learn both Java and Android programming.
+  relevant_for:
+    - teaching/education
 
 - company: MiTechLT LLC - TV Portal
   position: Founder, CTO, and Community & Developer Manager
@@ -95,36 +116,53 @@
     Collaborated with designers and developers all over the world to develop customer pleasing features and upgrades.
     Open source application nearly has 100 stars on Github.
     Respond to 100's of customer inquiries daily, achieving a Google Play Store rating of over 4.5 with over 4,300 reviews.
+  relevant_for:
+    - managing
 
 - project: Organic Software
   description: Building an LLM integrated with a Speech Transcription application that will allow the user to speak to it to alter its functionality and layout.
   technologies: SwiftUI, The Composable Architecture
+  relevant_for:
+    - teaching/education
+    - front end engineering
 
 - project: Proof of Listening - Solana Grizzlython
   description: Built a Shazam like application for Podcasts that integrated with the Solana blockchain to allow users to mint "Proof of Listening" tickets.
   technologies: Swift Server, Websockets, Kitura, Swift, SwiftUI, React, Solana, Rust
+  relevant_for:
+  - front end engineering
 
 - project: mtnBooth Twitter Solana Pay Integration
   description: A web-based application that allowed users to mint a mtnFrens NFT with a QR code and then display a Twitter card declaring their new purchase.
   technologies: NextJS, Open Graph, Solana, Solana Pay
+  relevant_for:
+    - front end engineering
 
 - project: Beauty Time
   description: Mobile application for aestheticians to allow them to configure and track multiple dual-sided timers for eyebrow and eyelash procedures.
   technologies: Expo, Redux, Redux Saga
+  relevant_for:
+    - front end engineering
 
 - project: Winner: Orlando ODevs XState 2023 Hackathon - NoIssue
   description: React Component built to directly integrate with Project Management software to enable easily adding issues from within your web application.
   technologies: XState, React
+  relevant_for:
+    - front end engineering
 
 - project: Cookies By Us
   platform: iOS (React Native)
   description: Instagram-style application with a photo feed and chat functionality built for custom cookie bakers. Easily allow for quick invoicing within the chat functionality.
   technologies: React Native, Firebase, Expo
+  relevant_for:
+    - front end engineering
 
 - project: Breed Up
   platform: iOS (React Native)
   description: Instagram-style application with a photo feed and chat functionality built to allow users to quickly and easily find other dog owners in the area and plan playdates.
   technologies: React Native, Firebase, Expo
+  relevant_for:
+    - front end engineering
 
 - university: Florida State University
   degree: B.S. in Computer Science
