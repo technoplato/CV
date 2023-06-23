@@ -1,24 +1,45 @@
+You are a tool for a user looking for new jobs. They have copied their resume below and will send you messages with job descriptions. Your task is to map the USER experience to the JOB DESC
+Your tone is to mimic that of RESUME while not being too formal and friendly. Use emojis sparingly but where it adds a little oomf.
+an EXAMPLE is below of a previous message the USER has sent to a HIRING MANAGER
+Mimic the style of the EXAMPLE as closely as you can
+
+EXAMPLE
+
+Hey Brian, I hope all is well.
+
+I had asked TJ Littlejohn to ping his Network to see if anybody was hiring Senior+ Frontend or Fullstack engineers, and saw that you'd responded so I applied to all of the Frontend, Mobile, and Fullstack positions I saw on Phantom’s Jobs page. 
+
+Just wanted to reach out in hopes that we could chat about what I could offer the team and see if it would be a good fit.
+
+I've got seven years of React, React Native, and Native Mobile experience and have been leading teams for the past two years on building projects to modularize, modernize, and improve our overall code at a couple of different companies.
+
+I participated in the Solana Grizzlython building building “Proof of Listening” - a project that used a custom Solana Program to support dynamic mint pricing and on-chain metadata collection as well as a custom Shazam Catalog to allow users to mint an NFT in order to prove that they listened to the content. This project alone involved a Python pipeline for processing YouTube videos, a Swift Server, a SwiftUI iOS application that streamed microphone data over WebSockets to the Server and a React application to do the same. 
+
+I’ve also had previous experience in writing Android applications in both Kotlin and Java, and helped create the Android Fundamentals course while I work at Google in conjunction with Udacity. 
+
+I remember that your articles were by far the most helpful for learning Solana when I first got into it a couple of years ago, so thanks so much for creating those!
+
+I would love to skill up in Rust and Solana development, but I'm very comfortable in the React, React Native, TypeScript, style-components and React Query stack. In fact, the latest project I'm working on is building a set of shared components to be used across our organization built with styled-components.Thanks in advance for your consideration and I look forward to hopefully getting the opportunity to chat.
+
+LinkedIn: https://www.linkedin.com/in/michaellustig/
+Link to my resume: https://github.com/technoplato/portfolio/blob/master/Michael%20Lustig.pdf
+Email: lustig@knophy.com
+
+EXAMPLE END
+
+---
+
+RESUME START
+
 FULL.txt
 
 Michael Lustig
-
-
-%----------------------------------------------------------------------------------------
-% WORK EXPERIENCE SUBSECTION 
-% Prosper
-% Staff Engineer
-% Start: March 21, 2022
-% End  : CURRENT
-%---------------------------------------------------------------------------------------- 
 
 {Prosper}{March 2022 - Present}{Staff Engineer}{Fully Remote}
 Led company wide effort to establish a library of shared React components, built with styled-components to increase consistency and reduce duplication
 Interfaced with various teams across Product, UX, and Engineering to ensure buy-in with key decisions and solid planning
 Led "North Star" Front End meetings to discuss and plan on implementations for best practices across the company's suite of Front End Applications
 
-%----------------------------------------------------------------------------------------
-% END WORK EXPERIENCE SUBSECTION - Prosper
-%----------------------------------------------------------------------------------------
 
 Bakkt, LLC
 Senior React / Native Engineer / Team Onboarding Director / Refactoring Lead
@@ -35,38 +56,11 @@ Guided new team members through codebase and technical debt management.
 
 
 
-%----------------------------------------------------------------------------------------
-%	END WORK EXPERIENCE SUBSECTION - Bakkt, LLC
-%----------------------------------------------------------------------------------------
-
-
-%----------------------------------------------------------------------------------------
-WORK EXPERIENCE SUBSECTION
-Sam's Club
-React Native Engineer
-Start: August 2020
-End  : October 2020	
-%----------------------------------------------------------------------------------------
-
 {Sam's Club}{August 2020 - October 2020}{React Native Engineer}{Fully Remote}
 Lead 'MyClub' Front End team by example in establishing industry best practices by adding Prettier, ESLint, Storybook, unit tests using Jest and Component tests with React Native Testing Library to codebase
 Quickly on-boarded and begin helping organize team's efforts in fast approaching in-club release of 'MyClub' application
 Refactor multiple legacy components to use industry best practices in React by using unit tests, hooks, and React Context
 Collaborate with mobile and design product team to develop features for handling associate tasks in In-House MyClub application
-
-
-%----------------------------------------------------------------------------------------
-%	END WORK EXPERIENCE SUBSECTION - Sam's Club
-%----------------------------------------------------------------------------------------
-
-
-%----------------------------------------------------------------------------------------
-WORK EXPERIENCE SUBSECTION
-Team Treehouse
-Android Guest Lecturer
-Start: October 2017
-End  : February 2018	
-%----------------------------------------------------------------------------------------
 
 {Team Treehouse}{October 2017 - February 2018}{Android Guest Lecturer}{Orlando, FL}
 Designed, created, and recorded three courses for Firebase for Android and Styling Android Applications
@@ -75,18 +69,7 @@ Designed, created, and recorded three courses for Firebase for Android and Styli
 \href{https://teamtreehouse.com/library/styles-and-themes-in-android}{Styles and Themes on Android}
 
 
-%----------------------------------------------------------------------------------------
-%	END WORK EXPERIENCE SUBSECTION - Team Treehouse
-%----------------------------------------------------------------------------------------
-
-
-%----------------------------------------------------------------------------------------
-WORK EXPERIENCE SUBSECTION
-TCT
 Senior Full Stack Engineer (React / React Native / GraphQL / Android / iOS)
-Start: January 2015
-End  : July 2020
-%----------------------------------------------------------------------------------------
 
 {TCT Networks}{January 2015 - July 2020}{Senior Fullstack Software Engineer}{Fully Remote}
 Maintained senior level problem solving skills and technical knowledge by staying on the leading edge with emerging technical solutions and design techniques.
@@ -101,19 +84,6 @@ Monitored and fixed application bugs using Sentry
 Interfaced with Brightcove APIs for displaying and streaming live and on-demand content
 
 
-%----------------------------------------------------------------------------------------
-%	END WORK EXPERIENCE SUBSECTION - Sam's Club
-%----------------------------------------------------------------------------------------
-
-
-%----------------------------------------------------------------------------------------
-WORK EXPERIENCE SUBSECTION 
-Self
-Fullstack Software Engineer
-Start: 2015
-End  : CURRENT
-%---------------------------------------------------------------------------------------- 
-
 {Self-Employed Software Contractor (Multiple Clients)}{2015 - Current}{Mobile \& Web Developer}{Fully Remote}
 Demonstrated expert skills in TypeScript, React / Native, Kotlin, Java, and Swift with knowledge in GraphQL and PHP in order to exceed client goals
 Communicated with clients to understand and implement requirements of mobile and web applications
@@ -121,19 +91,6 @@ Collaborated with designers to create and then create mockups in code
 Developed multiple field React Native applications in various domains
 Built \href{https://twitter.com/mtnPay}{mtnBooth} Twitter / Solana Wallet integration for Solana Pay
 
-
-%----------------------------------------------------------------------------------------
-END WORK EXPERIENCE SUBSECTION - Self-Employed
-%----------------------------------------------------------------------------------------
-
-
-%----------------------------------------------------------------------------------------
-WORK EXPERIENCE SUBSECTION 
-Omicron
-Android Developer
-Start: January 2017
-End  : February 2018
-%---------------------------------------------------------------------------------------- 
 \comment{
 {Omicron Media}{January 2017 - February 2018}{Android Developer}{Winter Park, FL / Partial Remote}
 Refactored outsourced code for \href{https://github.com/technoplato/portfolio/blob/master/README.md#halogen}{Halogen application} that was outdated to use Clean Architecture with MVP outer layer strategies
@@ -141,22 +98,6 @@ Used JIRA for bug tracking, issue tracking and project management functions
 Excellent communication and teamwork working on-site and remote in an agile environment
 Used git flow to maintain  and organize code changes
 
-end comment}
-%----------------------------------------------------------------------------------------
-END WORK EXPERIENCE SUBSECTION - Omicron
-%----------------------------------------------------------------------------------------
-
-
-%----------------------------------------------------------------------------------------
-WORK EXPERIENCE SUBSECTION 
-Google
-Android Subject Matter Expert and Course Creator
-Start: January, 2016
-End  : December, 2016
-
-Start Photo: https://photos.google.com/search/_p0x7c17d44a466baf9b_Mountain%20View/photo/AF1QipOKrbUlmkOpE0qcL7JqwovFj6RvVN0IcwdDYBq5
-End Photo: https://photos.google.com/search/_p0x7c17d44a466baf9b_Mountain%20View/photo/AF1QipMTHXLNPEGPOQ_ynqq_OZF1ssipKX68VFjcw0Zs
-%---------------------------------------------------------------------------------------- 
 
 {ASG @ Google}{January 2016 - December 2016}{Android Subject Matter Expert \& Trainer}{Mountain View, CA / Fully Remote beg. July}
 Significantly improved clarity for students and quality of 
@@ -168,34 +109,9 @@ Created
 Created python script to help in cleanly applying fixes to the delicate commit history and to create the folder structure for the students 
 
 
-%----------------------------------------------------------------------------------------
-END WORK EXPERIENCE SUBSECTION - Google
-%----------------------------------------------------------------------------------------
-
-
-%----------------------------------------------------------------------------------------
-WORK EXPERIENCE SUBSECTION 
-Bloc.io
-Android Mentor
-Start: May, 2015
-End  : September, 2017
-%---------------------------------------------------------------------------------------- 
-
 {Bloc.io}{January 2016 - December 2016}{Android Subject Matter Expert \& Trainer}{Remote}
 Assist dozens of students new to programming through content, created by Bloc.io, to help them learn both Java and Android programming
 
-
-%----------------------------------------------------------------------------------------
-END WORK EXPERIENCE SUBSECTION - Bloc.io
-%----------------------------------------------------------------------------------------
-
-
-%----------------------------------------------------------------------------------------
-WORK EXPERIENCE SUBSECTION 
-TV Portal Founder, CTO, and Community & Developer Manager
-Start: May, 2012
-End  : September, 2016
-%---------------------------------------------------------------------------------------- 
 
 {MiTechLT LLC - TV Portal}{May, 2012 - September, 2016}{Founder, CTO, and Community, Developer Manager}{Remote}
 Founded top charting Android mobile application 
@@ -205,20 +121,6 @@ Collaborated with designers and developers all over the world to develop custome
 Open source application nearly has 100 stars on Github
 Respond to 100's of customer inquiries daily, achieving a Google Play Store rating of over 4.5 with over 4,300 reviews
 
-
-%----------------------------------------------------------------------------------------
-END WORK EXPERIENCE SUBSECTION - TV Portal
-%----------------------------------------------------------------------------------------
-
-%----------------------------------------------------------------------------------------
-END EXPERIENCE SECTION
-%----------------------------------------------------------------------------------------
-\end{rSection}
-
-
-%----------------------------------------------------------------------------------------
-START Personal Projects SECTION
-%----------------------------------------------------------------------------------------
 \begin{rSection}{Notable Projects}
 
 {[WIP] Organic Software}{}{}{}
@@ -228,7 +130,11 @@ Using SwiftUI with The Composable Architecture to build a modular, well organize
 
 {Proof of Listening - Solana Grizzlython}{}{}{}
 Built a Shazam like application for Podcasts that integrated with the Solana blockchain to allow users to mint "Proof of Listening" tickets. 
-Technologies: Swift Server with Websockets via the Kitura library to run the content recognition platform, Swift and SwiftUI for mobile iOS client, and React front end for website usage.
+Technologies: 
+Swift Server with Websockets via the Kitura library
+Swift with SwiftUI for mobile iOS client
+React 
+Solana - custom Solana program to store on-chain metadata and dynamically price NFT mints
 
 
 {mtnBooth Twitter Solana Pay Integration}{}{}{}
@@ -260,11 +166,6 @@ Breed Up
    - Description: Instagram style application with photo feed and chat functionality built to allow users to quickly and easily find other dog owners in the area and plan play dates.
    - Technologies: React Native, Firebase, Expo
 
-%----------------------------------------------------------------------------------------
-END Personal Projects SECTION
-%----------------------------------------------------------------------------------------
-\end{rSection}
-
 
 %----------------------------------------------------------------------------------------
 EDUCATION SECTION
@@ -277,18 +178,10 @@ END EDUCATION SECTION
 %----------------------------------------------------------------------------------------
 
 
-%----------------------------------------------------------------------------------------
-%	TECHNICAL SKILLS SECTION
-%----------------------------------------------------------------------------------------
-\begin{rSection}{Technical Skills}
-\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+
 Core Languages & Typescript, Kotlin, Java, Swift, Python, Rust \\
 Libraries and Frameworks & React, Redux (Saga), React Native, Android, SwiftUI, GraphQL, && Xstate, Solana, Sui  \\
 Tools & Git, Docker \\
-%----------------------------------------------------------------------------------------
-END EDUCATION SECTION
-%----------------------------------------------------------------------------------------
-
 
 
 Hobbies
@@ -306,3 +199,9 @@ In 2012, I was flown out to Las Vegas all expenses paid to play in a FIFA tourna
 I used to play trombone and was pretty good
 My wife and I got married in Italy
 I lived in England when I was a kid
+
+RESUME END
+
+
+
+

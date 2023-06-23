@@ -1,0 +1,262 @@
+Here's my details, can you help me by creating 3 options for a technical summary?
+
+Michael Lustig is a passionate and accomplished Full Stack Software Engineer, with a strong technical background in React, React Native, Kotlin, Java, and Swift. With over eight years of experience, Michael has held key roles in various successful projects and organizations such as Google, Sam's Club, and Bakkt. Currently, he serves as a Staff Engineer at Prosper, where he leads company-wide efforts in the front-end and product domain.
+
+Throughout his career, Michael has demonstrated excellent skills in TypeScript, React, Kotlin, Java, and Swift, as well as knowledge in GraphQL, and PHP. He excels in working on both mobile and web applications, collaborating closely with designers and clients to exceed expectations. His notable personal projects include the development of mtnBooth, a Twitter Solana Wallet integration with Solana Pay, and an Shazam-like application for Podcasts integrated with the Solana blockchain.
+
+Michael is known for his adaptability and rapid learning skills, which have allowed him to transition seamlessly between various roles and setups, including remote work. His experience in leading teams, onboarding new members, and creating courses display his strong communication skills and dedication to his profession. Michael is constantly updating his skills and staying at the cutting edge of emerging technologies and design techniques.
+
+As an Android Lecturer at Team Treehouse, Michael displayed his expertise by designing, creating, and recording courses for Firebase for Android and Styling Android Applications. He has also held the position of Android Subject Matter Expert and Trainer at ASG @ Google, working on the Android Fundamentals course in conjunction with Audacity.
+
+In his various roles, Michael has been instrumental in implementing best practices, refactoring code, enhancing code quality, and improving team morale through pair programming. His ability to navigate complex codebases and manage technical debt showcases his proficiency as a software engineer.
+
+Michael's diverse experience and expertise, ranging from mobile app development to web development and blockchain integration, demonstrate his commitment to excellence and continuous growth as a Full Stack Software Engineer. His adaptability, dedication, and passion for his craft make him an invaluable asset to any team and project.
+
+EXPERIENCE
+
+Prosper Marketplace logo
+Staff Engineer
+Staff Engineer
+Prosper Marketplace · Full-timeProsper Marketplace · Full-time
+Mar 2022 - Present · 1 yr 4 mosMar 2022 - Present · 1 yr 4 mos
+RemoteRemote
+
+Led company wide effort to establish a library of shared React components, built with styled-components to increase consistency and reduce duplication
+
+Interfaced with various teams across Product, UX, and Engineering to ensure buy-in with key decisions and solid planning
+
+Led "North Star" Front End meetings to discuss and plan on implementations for best practices across the company's suite of Front End Applications
+Led company wide effort to establish a library of shared React components, built with styled-components to increase consistency and reduce duplication Interfaced with various teams across Product, UX, and Engineering to ensure buy-in with key decisions and solid planning Led "North Star" Front End meetings to discuss and plan on implementations for best practices across the company's suite of Front End Applications
+Skills: Node.js · React · Product Development · Continuous Improvement · Leadership · GraphQL · Apollo GraphQL · TypeScript
+Skills: Node.js · React · Product Development · Continuous Improvement · Leadership · GraphQL · Apollo GraphQL · TypeScript
+Bakkt logo
+Frontend Software Engineer
+Frontend Software Engineer
+Bakkt · Full-timeBakkt · Full-time
+Nov 2020 - Mar 2022 · 1 yr 5 mosNov 2020 - Mar 2022 · 1 yr 5 mos
+RemoteRemote
+
+Led refactoring efforts, adopted Atomic Design principles, and standardized best practices.
+
+Collaborated with VP of Design to establish scalable DesignOps.
+
+Applied Finite State Machines for modeling and simplifying interactions.
+
+Implemented pair programming to enhance code quality and team morale.
+
+Guided new team members through codebase and technical debt management.
+Led refactoring efforts, adopted Atomic Design principles, and standardized best practices. Collaborated with VP of Design to establish scalable DesignOps. Applied Finite State Machines for modeling and simplifying interactions. Implemented pair programming to enhance code quality and team morale. Guided new team members through codebase and technical debt management.
+Skills: Node.js · React · React Native · Apollo GraphQL · TypeScript
+Skills: Node.js · React · React Native · Apollo GraphQL · TypeScript
+Sam's Club logo
+React Native Engineer
+React Native Engineer
+Sam's Club · Full-timeSam's Club · Full-time
+Aug 2020 - Oct 2020 · 3 mosAug 2020 - Oct 2020 · 3 mos
+Little Rock, Arkansas, United States · RemoteLittle Rock, Arkansas, United States · Remote
+
+Lead 'MyClub' Front End team by example in establishing industry best practices by adding Prettier, ESLint, Storybook, unit tests using Jest and Component tests with React Native Testing Library to codebase
+
+Quickly on-boarded and begin helping organize team's efforts in fast approaching in-club release of 'MyClub' application
+
+Refactor multiple legacy components to use industry best practices in React by using unit tests, hooks, and React Context
+
+Collaborate with mobile and design product team to develop features for handling associate tasks in In-House MyClub application
+Lead 'MyClub' Front End team by example in establishing industry best practices by adding Prettier, ESLint, Storybook, unit tests using Jest and Component tests with React Native Testing Library to codebase Quickly on-boarded and begin helping organize team's efforts in fast approaching in-club release of 'MyClub' application Refactor multiple legacy components to use industry best practices in React by using unit tests, hooks, and React Context Collaborate with mobile and design product team to develop features for handling associate tasks in In-House MyClub application
+Skills: React · React Native
+Skills: React · React Native
+TCT Network logo
+Android, iOS, React Native Developer
+Android, iOS, React Native Developer
+TCT Ministries · ContractTCT Ministries · Contract
+Jan 2015 - Jul 2020 · 5 yrs 7 mosJan 2015 - Jul 2020 · 5 yrs 7 mos
+Remote · RemoteRemote · Remote
+
+Maintained senior level problem solving skills and technical knowledge by staying on the leading edge with emerging technical solutions and design techniques.
+
+Significantly reduced codebase size across platforms by utilizing React Native for Android and iOS
+
+Implemented GraphQL solution to consolidate API calls across various clients
+
+Built green field software to manage media catalog and streaming applications on Android devices, tablets, Android TV, and iOS using native Kotlin, Java, and Swift
+
+Monitored and fixed application bugs using Sentry
+
+Interfaced with Brightcove APIs for displaying and streaming live and on-demand content
+Maintained senior level problem solving skills and technical knowledge by staying on the leading edge with emerging technical solutions and design techniques. Significantly reduced codebase size across platforms by utilizing React Native for Android and iOS Implemented GraphQL solution to consolidate API calls across various clients Built green field software to manage media catalog and streaming applications on Android devices, tablets, Android TV, and iOS using native Kotlin, Java, and Swift Monitored and fixed application bugs using Sentry Interfaced with Brightcove APIs for displaying and streaming live and on-demand content
+Skills: Python (Programming Language) · Node.js · iOS Development · Swift (Programming Language) · Kotlin · Android Development · React Native · Apollo GraphQL
+Skills: Python (Programming Language) · Node.js · iOS Development · Swift (Programming Language) · Kotlin · Android Development · React Native · Apollo GraphQL
+Omicron Media, Inc. logo
+Android Developer
+Android Developer
+Omicron Media, Inc.Omicron Media, Inc.
+Apr 2017 - Feb 2018 · 11 mosApr 2017 - Feb 2018 · 11 mos
+Winter Park, Florida · On-siteWinter Park, Florida · On-site
+
+Refactored outsourced code for Halogen Application that was outdated to use Clean Architecture with MVP outer layer strategies
+
+Used JIRA for bug tracking, issue tracking and project management functions
+
+Excellent communication and teamwork working on-site and remote in an agile environment
+
+Used git flow to maintain and organize code changes
+Refactored outsourced code for Halogen Application that was outdated to use Clean Architecture with MVP outer layer strategies Used JIRA for bug tracking, issue tracking and project management functions Excellent communication and teamwork working on-site and remote in an agile environment Used git flow to maintain and organize code changes
+Skills: Model-View-Presenter (MVP) · Android Development · Android SDK
+Skills: Model-View-Presenter (MVP) · Android Development · Android SDK
+Bloc, Inc. logo
+Android Mentor
+Android Mentor
+Bloc, Inc.Bloc, Inc.
+Mar 2015 - Dec 2017 · 2 yrs 10 mosMar 2015 - Dec 2017 · 2 yrs 10 mos
+
+I take students from having zero knowledge about Android, Java, or development of any kind, and help them create a competitive portfolio of Android applications in order to prepare them for today's mobile development workforce.
+
+My profile on Bloc: https://www.bloc.io/mentors/michael-lustig-2
+I take students from having zero knowledge about Android, Java, or development of any kind, and help them create a competitive portfolio of Android applications in order to prepare them for today's mobile development workforce. My profile on Bloc: https://www.bloc.io/mentors/michael-lustig-2
+Skills: Python (Programming Language) · Programming Tutor · Online Tutoring
+Skills: Python (Programming Language) · Programming Tutor · Online Tutoring
+Bloc | Online Courses in Web Development, Mobile Development, and DesignBloc | Online Courses in Web Development, Mobile Development, and Design
+Learn to code and become a web developer in Ruby on Rails, HTML, CSS, Javascript, and jQuery in Bloc's Intense Online Web Development Apprenticeship.Learn to code and become a web developer in Ruby on Rails, HTML, CSS, Javascript, and jQuery in Bloc's Intense Online Web Development Apprenticeship.
+Advanced Systems Group, LLC logo
+Android Developer Training Specialist, ASG @ Google
+Android Developer Training Specialist, ASG @ Google
+Advanced Systems Group, LLCAdvanced Systems Group, LLC
+Jan 2016 - Dec 2016 · 1 yrJan 2016 - Dec 2016 · 1 yr
+Mountain View, CAMountain View, CA
+
+(agreeably "let go") Restructured existing “Developing Android Apps” course on Udacity and codebase to ease the understanding of fundamental Android concepts and add more explicit instruction for students with easy to find solutions. Outlined, scripted, reorganized, and recorded content for the updated course.
+
+Key Accomplishments:
+Wrote and created exercise / solution pairs for 8 out of the 14 example applications used
+Refactored entire codebase of the “Sunshine” Android application used as a teaching tool 
+Outlined, scripted, and recorded content for the course.
+
+Blogpost on Google’s Blog Announcing Updated Course
+http://android-developers.blogspot.com/2016/11/updated-udacity-android-course-prepares-students-for-the-associate-android-developer-certification.html
+
+My Introduction in the “Developing Android Apps” course https://classroom.udacity.com/courses/ud851/lessons/93affc67-3f0b-4f9b-b3a4-a7a26f241a86/concepts/115d08bb-f114-46fa-b693-5c6ce1445c07#
+
+Sunshine Application that I rewrote for Google for “Developing Android Apps” course 
+https://github.com/udacity/ud851-Sunshine
+
+Example Applications that I rewrote for Google for “Developing Android Apps” course https://github.com/udacity/ud851-Exercises
+(agreeably "let go") Restructured existing “Developing Android Apps” course on Udacity and codebase to ease the understanding of fundamental Android concepts and add more explicit instruction for students with easy to find solutions. Outlined, scripted, reorganized, and recorded content for the updated course. Key Accomplishments: Wrote and created exercise / solution pairs for 8 out of the 14 example applications used Refactored entire codebase of the “Sunshine” Android application used as a teaching tool Outlined, scripted, and recorded content for the course. Blogpost on Google’s Blog Announcing Updated Course http://android-developers.blogspot.com/2016/11/updated-udacity-android-course-prepares-students-for-the-associate-android-developer-certification.html My Introduction in the “Developing Android Apps” course https://classroom.udacity.com/courses/ud851/lessons/93affc67-3f0b-4f9b-b3a4-a7a26f241a86/concepts/115d08bb-f114-46fa-b693-5c6ce1445c07# Sunshine Application that I rewrote for Google for “Developing Android Apps” course https://github.com/udacity/ud851-Sunshine Example Applications that I rewrote for Google for “Developing Android Apps” course https://github.com/udacity/ud851-Exercises
+Skills: Python (Programming Language)
+Skills: Python (Programming Language)
+Android Developer
+Android Developer
+6voices, LLC6voices, LLC
+Jun 2016 - Aug 2016 · 3 mosJun 2016 - Aug 2016 · 3 mos
+RemoteRemote
+
+Used Firebase Realtime Database to deliver one hand-picked Amazon Echo Skill each day.
+Used Firebase Realtime Database to deliver one hand-picked Amazon Echo Skill each day. 
+FSU Mobile Lab
+FSU Mobile Lab
+1 yr 5 mos1 yr 5 mos
+Project Manager
+Project Manager
+Jan 2015 - Dec 2015 · 1 yrJan 2015 - Dec 2015 · 1 yr
+Tallahassee, Florida AreaTallahassee, Florida Area
+
+Student Volunteer
+Student Volunteer
+Aug 2014 - Dec 2015 · 1 yr 5 mosAug 2014 - Dec 2015 · 1 yr 5 mos
+
+I work on projects such as the Open Source Mobile Benchmark suite.
+
+Here is a list of the Open Source Applications I have modified:
+https://github.com/lustigdev/BenchmarkMuPDF
+https://github.com/lustigdev/BenchmarkOfflineWikipedia
+https://github.com/lustigdev/BenchmarkImageLoader
+https://github.com/lustigdev/BenchmarkFrozenBubble
+I work on projects such as the Open Source Mobile Benchmark suite. Here is a list of the Open Source Applications I have modified: https://github.com/lustigdev/BenchmarkMuPDF https://github.com/lustigdev/BenchmarkOfflineWikipedia https://github.com/lustigdev/BenchmarkImageLoader https://github.com/lustigdev/BenchmarkFrozenBubble
+Chief Customer Officer
+Chief Customer Officer
+MiTech LT, LLC · Full-timeMiTech LT, LLC · Full-time
+Nov 2012 - Mar 2015 · 2 yrs 5 mosNov 2012 - Mar 2015 · 2 yrs 5 mos
+RemoteRemote
+
+Founded top charting Android mobile application 
+
+Grow social media presence on Facebook to over 27,000 followers
+
+Managed Android application that amassed over 2,000,000 downloads with earnings over 40,000 USD
+
+Collaborated with designers and developers all over the world to develop customer pleasing features and upgrades
+
+Open source application nearly has 100 stars on Github
+
+Respond to 100's of customer inquiries daily, achieving a Google Play Store rating of over 4.5 with over 4,300 reviews
+Founded top charting Android mobile application Grow social media presence on Facebook to over 27,000 followers Managed Android application that amassed over 2,000,000 downloads with earnings over 40,000 USD Collaborated with designers and developers all over the world to develop customer pleasing features and upgrades Open source application nearly has 100 stars on Github Respond to 100's of customer inquiries daily, achieving a Google Play Store rating of over 4.5 with over 4,300 reviews
+Skills: Management · Leadership · Project Management
+Skills: Management · Leadership · Project Management
+Nanodegree Student
+Nanodegree Student
+UdacityUdacity
+2015 · Less than a year2015 · Less than a year
+
+Skills: Python (Programming Language)
+Skills: Python (Programming Language)
+Miltope logo
+Co Op Student
+Co Op Student
+VT MiltopeVT Miltope
+May 2011 - Dec 2012 · 1 yr 8 mosMay 2011 - Dec 2012 · 1 yr 8 mos
+
+
+
+PROJECTS
+
+
+TV Portal
+TV Portal
+Nov 2012 - PresentNov 2012 - Present
+Associated with MiTech LT, LLC
+Associated with MiTech LT, LLC
+Show project
+TV Portal is an Android application that allows users to watch free TV shows and movies on their phones, tablets, mini PCs, and Google TVs.TV Portal is an Android application that allows users to watch free TV shows and movies on their phones, tablets, mini PCs, and Google TVs.
+Android Open Source Benchmark Suite
+Android Open Source Benchmark Suite
+Aug 2014 - Mar 2015Aug 2014 - Mar 2015
+Associated with FSU Mobile Lab
+Associated with FSU Mobile Lab
+Show project
+I researched open source Android applications that fit our benchmark's needs and modified them to accept input from the command line to run deterministically and automatically.
+
+The list of every application can be found at this Project's URL, however, the applications that I modified are on Github, and those links are below: 
+
+FrozenBubble - the classic, line up the gun and shoot the ball game. Similar to Bejeweled
+Link: https://github.com/halfjew22/BenchmarkFrozenBubble
+
+MuPDF - an open source PDF reader:
+Link: https://github.com/halfjew22/BenchmarkMuPDF
+
+Offline Wikipedia Viewer - since the simulator does not have internet access, we needed a way to load large amounts of data offline. This was our solution.
+Link: https://github.com/halfjew22/BenchmarkOfflineWikipedia
+
+Image Loader - we wanted these applications to involve somewhat intensive operations, so we chose to view images.
+Link: https://github.com/halfjew22/BenchmarkImageLoaderI researched open source Android applications that fit our benchmark's needs and modified them to accept input from the command line to run deterministically and automatically. The list of every application can be found at this Project's URL, however, the applications that I modified are on Github, and those links are below: FrozenBubble - the classic, line up the gun and shoot the ball game. Similar to Bejeweled Link: https://github.com/halfjew22/BenchmarkFrozenBubble MuPDF - an open source PDF reader: Link: https://github.com/halfjew22/BenchmarkMuPDF Offline Wikipedia Viewer - since the simulator does not have internet access, we needed a way to load large amounts of data offline. This was our solution. Link: https://github.com/halfjew22/BenchmarkOfflineWikipedia Image Loader - we wanted these applications to involve somewhat intensive operations, so we chose to view images. Link: https://github.com/halfjew22/BenchmarkImageLoader
+[WIP] Organic Software
+[WIP] Organic Software
+Building an LLM integrated with a Speech Transcription application that will allow the user to speak to it to alter its functionality and layout
+Using SwiftUI with The Composable Architecture to build a modular, well organized codebase and to isolate dependencies in order to maximize ease of testingBuilding an LLM integrated with a Speech Transcription application that will allow the user to speak to it to alter its functionality and layout Using SwiftUI with The Composable Architecture to build a modular, well organized codebase and to isolate dependencies in order to maximize ease of testing
+Skills: SwiftUI
+
+
+Honors & awards
+
+ 
+Winner - XState Orlando Devs 2023 Hackathon
+Winner - XState Orlando Devs 2023 Hackathon
+Issued by Orlando Devs, Xstate · Jan 2023Issued by Orlando Devs, Xstate · Jan 2023
+React Component built to directly integrate with Project Managment software to enable easily adding issues from within your web application
+
+Technologies: XState, ReactReact Component built to directly integrate with Project Managment software to enable easily adding issues from within your web application Technologies: XState, React
+Inaugural Android Developer Career Summit Attendee
+Inaugural Android Developer Career Summit Attendee
+Issued by Google · Nov 2015Issued by Google · Nov 2015
+Associated with Udacity
+Associated with Udacity
+Description from event page: "The Android Developer Career Summit will host 50 Udacity Android Developer Nanodegree program students and graduates at Google’s headquarters in Mountain View, California for a 3-day summit. Participants will have the exciting opportunity to experience Google’s unique culture, network and learn from Google engineers, and attend workshops focused on developing their personal career paths. Participants will then leverage the skills learned from Udacity’s Android Developer Nanodegree program during a two-day hackathon. They’ll be challenged to team up and create innovative Android applications that they’ll demo to Google engineers."
+

@@ -1,0 +1,168 @@
+experience:
+  - name: Prosper Marketplace
+    title: Staff Engineer
+    start: Mar 2022
+    end: Present
+    technologies:
+      - Node.js
+      - React
+      - Product Development
+      - Continuous Improvement
+      - Leadership
+      - GraphQL
+      - Apollo GraphQL
+      - TypeScript
+    responsibilites:
+      - Led company-wide effort to establish a library of shared React components
+      - Interfaced with various teams across Product, UX, and Engineering
+      - Led "North Star" Front End meetings to discuss and plan best practices
+  - name: Bakkt
+    title: Frontend Software Engineer
+    start: Nov 2020
+    end: Mar 2022
+    technologies:
+      - Node.js
+      - React
+      - React Native
+      - Apollo GraphQL
+      - TypeScript
+    responsibilites:
+      - Led refactoring efforts and standardized best practices
+      - Collaborated with VP of Design to establish scalable DesignOps
+      - Applied Finite State Machines for modeling and simplifying interactions
+      - Implemented pair programming to enhance code quality and team morale
+      - Guided new team members through codebase and technical debt management
+  - name: Sam's Club
+    title: React Native Engineer
+    start: Aug 2020
+    end: Oct 2020
+    technologies:
+      - React
+      - React Native
+    responsibilites:
+      - Led 'MyClub' Front End team in establishing industry best practices
+      - Quickly onboard and help organize team efforts for in-club release of 'MyClub' application
+      - Refactor legacy components using industry best practices in React
+      - Collaborate with mobile and design product team to develop features
+  - name: TCT Ministries
+    title: Android, iOS, React Native Developer
+    start: Jan 2015
+    end: Jul 2020
+    technologies:
+      - Python
+      - Node.js
+      - iOS Development
+      - Swift
+      - Kotlin
+      - Android Development
+      - React Native
+      - Apollo GraphQL
+    responsibilites:
+      - Maintained senior-level problem-solving skills and technical knowledge
+      - Reduced codebase size across platforms using React Native
+      - Implemented GraphQL solution to consolidate API calls
+      - Built greenfield software for media catalog and streaming applications
+      - Monitored and fixed application bugs using Sentry
+      - Interfaced with Brightcove APIs for content display and streaming
+  - name: Omicron Media, Inc.
+    title: Android Developer
+    start: Apr 2017
+    end: Feb 2018
+    technologies:
+      - Model-View-Presenter
+      - Android Development
+      - Android SDK
+    responsibilites:
+      - Refactored outsourced code for Halogen Application
+      - Used JIRA for bug tracking, issue tracking, and project management
+      - Excellent communication and teamwork in an agile environment
+      - Used git flow to maintain and organize code changes
+  - name: Bloc, Inc.
+    title: Android Mentor
+    start: Mar 2015
+    end: Dec 2017
+    technologies:
+      - Python
+      - Programming Tutor
+      - Online Tutoring
+    responsibilites:
+      - Teach students with zero knowledge about Android, Java, or development
+      - Help students create a competitive portfolio of Android applications
+      - Prepare students for mobile development workforce
+  - name: Advanced Systems Group, LLC
+    title: Android Developer Training Specialist, ASG @ Google
+    start: Jan 2016
+    end: Dec 2016
+    technologies:
+      - Python
+    responsibilites:
+      - Restructured existing “Developing Android Apps” course on Udacity
+      - Outlined, scripted, reorganized, and recorded content for the updated course
+      - Wrote and created exercise and solution pairs for example applications
+      - Refactored codebase of the “Sunshine” Android application
+  - name: 6voices, LLC
+    title: Android Developer
+    start: Jun 2016
+    end: Aug 2016
+    responsibilites:
+      - Used Firebase Realtime Database to deliver hand-picked Amazon Echo Skills daily
+  - name: FSU Mobile Lab
+    title: Project Manager
+    start: Jan 2015
+    end: Dec 2015
+    responsibilites:
+      - Worked on projects such as the Open Source Mobile Benchmark suite
+      - Modified open source Android applications for benchmark needs
+  - name: MiTech LT, LLC
+    title: Chief Customer Officer
+    start: Nov 2012
+    end: Mar 2015
+    responsibilites:
+      - Founded top-charting Android mobile application
+      - Managed Android app with over 2,000,000 downloads and earnings over $40,000
+      - Collaborated with designers and developers worldwide
+      - Maintained excellent customer support, achieving a high rating on Google Play Store
+
+projects:
+  - name: TV Portal
+    technologies:
+      - Android
+  - name: Android Open Source Benchmark Suite
+    technologies:
+      - Android
+  - name: [WIP] Organic Software
+    technologies:
+      - SwiftUI
+
+awards:
+  - title: Winner - XState Orlando Devs 2023 Hackathon
+    date: Jan 2023
+  - title: Inaugural Android Developer Career Summit Attendee
+    date: Nov 2015
+
+education: 
+  - school: MiTech LT, LLC
+    title: Chief Customer Officer
+    start: Nov 2012
+    end: Mar 2015
+    responsibilites:
+      - Founded top-charting Android mobile application
+      - Managed Android app with over 2,000,000 downloads and earnings over $40,000
+      - Collaborated with designers and developers worldwide
+      - Maintained excellent customer support, achieving a high rating on Google Play Store
+
+contact_information:
+  linkedin: 
+    https://www.linkedin.com/in/michaellustig/
+  github:
+    https://github.com/technoplato
+  dev.to: 
+    https://dev.to/technoplato
+  website: 
+    https://github.com/technoplato/portfolio
+  portfolio: 
+    https://github.com/technoplato/portfolio
+  phone: <phone_number>
+  email: <email_address>
+
+hobbies: []
