@@ -1,4 +1,5 @@
 experience:
+
   - name: Prosper Marketplace
     title: Staff Engineer
     start: Mar 2022
@@ -6,18 +7,29 @@ experience:
     technologies:
       - Node.js
       - React
-      - Product Development
+      - Product Engineering
+      - Github Actions
       - Continuous Improvement
       - Leadership
       - GraphQL
       - Apollo GraphQL
       - TypeScript
+      - Storybook
+      - Figma
+      - jest
+      - Cypress
+      - Percy
+      - Chromatic
     responsibilites:
       - Led company-wide effort to establish a library of shared React components
-      - Interfaced with various teams across Product, UX, and Engineering
-      - Led "North Star" Front End meetings to discuss and plan best practices
+      - Created, maintained, and updated a Github Workflow to cache, test, build, and release our shared-components
+      - Impelemented visual regression testing using Percy and Chromatic, closely collaborating with Design and Product teams to ensure individual components matched intended designs to the pixel
+      - Interfaced with various teams across Product, UX, and Engineering in order to get new projects off the ground
+      - Led "North Star" Front End meetings to discuss, plan, and create Proof of Concepts for new technologies
+      - Introduce shared-component team to "Any Decision Records" to solidify and record decisions made by the team to make them discoverable to future contributors
+
   - name: Bakkt
-    title: Frontend Software Engineer
+    title: Fullstack Software Engineer
     start: Nov 2020
     end: Mar 2022
     technologies:
@@ -26,12 +38,17 @@ experience:
       - React Native
       - Apollo GraphQL
       - TypeScript
+      - Yarn Workspaces
+      - Figma
+      - Storybook
     responsibilites:
       - Led refactoring efforts and standardized best practices
       - Collaborated with VP of Design to establish scalable DesignOps
-      - Applied Finite State Machines for modeling and simplifying interactions
-      - Implemented pair programming to enhance code quality and team morale
+      - Applied Finite State Machines for modeling and simplifying complex interactions
+      - Encouraged strong pair programming culture to enhance code quality, knowledge sharing and team morale
       - Guided new team members through codebase and technical debt management
+      - Implement Native Objective C and Java modules for React Native to interface with Google Wallet and Apple Pay
+
   - name: Sam's Club
     title: React Native Engineer
     start: Aug 2020
@@ -39,11 +56,16 @@ experience:
     technologies:
       - React
       - React Native
+      - Storybook
+
     responsibilites:
       - Led 'MyClub' Front End team in establishing industry best practices
       - Quickly onboard and help organize team efforts for in-club release of 'MyClub' application
       - Refactor legacy components using industry best practices in React
       - Collaborate with mobile and design product team to develop features
+      - Build Design Ops workflow to streamline design and development process
+      - Establish strong isolation of concerns in order to mirror designs in live running Storybook code
+
   - name: TCT Ministries
     title: Android, iOS, React Native Developer
     start: Jan 2015
@@ -54,16 +76,22 @@ experience:
       - iOS Development
       - Swift
       - Kotlin
+      - Java
+      - Objective-C
       - Android Development
       - React Native
       - Apollo GraphQL
+      - Brightcove Media Catalog and Streaming SDK
     responsibilites:
       - Maintained senior-level problem-solving skills and technical knowledge
-      - Reduced codebase size across platforms using React Native
+      - Reduced codebase size across iOS and Android platforms using React Native
       - Implemented GraphQL solution to consolidate API calls
       - Built greenfield software for media catalog and streaming applications
       - Monitored and fixed application bugs using Sentry
       - Interfaced with Brightcove APIs for content display and streaming
+      - Collaborate with leadership to set the trajectory for suite of media applications 
+      - Manage Google Play Store and Apple App Store listings for suite of media applications
+
   - name: Omicron Media, Inc.
     title: Android Developer
     start: Apr 2017
@@ -72,11 +100,14 @@ experience:
       - Model-View-Presenter
       - Android Development
       - Android SDK
+      - Figma
+      - git
     responsibilites:
       - Refactored outsourced code for Halogen Application
       - Used JIRA for bug tracking, issue tracking, and project management
       - Excellent communication and teamwork in an agile environment
       - Used git flow to maintain and organize code changes
+
   - name: Bloc, Inc.
     title: Android Mentor
     start: Mar 2015
@@ -84,35 +115,50 @@ experience:
     technologies:
       - Python
       - Programming Tutor
+      - Mentorship
       - Online Tutoring
+      - git
+      - Android Development
     responsibilites:
       - Teach students with zero knowledge about Android, Java, or development
       - Help students create a competitive portfolio of Android applications
       - Prepare students for mobile development workforce
+
   - name: Advanced Systems Group, LLC
     title: Android Developer Training Specialist, ASG @ Google
     start: Jan 2016
     end: Dec 2016
     technologies:
       - Python
+      - Android development
+      - git
+      - Public Speaking
+      - Software Course Creation
     responsibilites:
       - Restructured existing “Developing Android Apps” course on Udacity
       - Outlined, scripted, reorganized, and recorded content for the updated course
       - Wrote and created exercise and solution pairs for example applications
       - Refactored codebase of the “Sunshine” Android application
+      - Built "Toy Applications" that demonstrate core Android development concepts with minimal cognitive load on students
+
   - name: 6voices, LLC
     title: Android Developer
     start: Jun 2016
     end: Aug 2016
     responsibilites:
       - Used Firebase Realtime Database to deliver hand-picked Amazon Echo Skills daily
+      - Built and deploy Android Native mobile application to Google Play Store
+      - Manage and update application binaries and metadata on Google Play Store
+
   - name: FSU Mobile Lab
     title: Project Manager
     start: Jan 2015
     end: Dec 2015
     responsibilites:
       - Worked on projects such as the Open Source Mobile Benchmark suite
-      - Modified open source Android applications for benchmark needs
+      - Modified open source Android applications for benchmark needs for Master's work
+      - Responsible for managing contract work bids for the Florida State Mobile lab
+
   - name: MiTech LT, LLC
     title: Chief Customer Officer
     start: Nov 2012
@@ -124,32 +170,98 @@ experience:
       - Maintained excellent customer support, achieving a high rating on Google Play Store
 
 projects:
+  - name: Beauty Time
+    role: Lead Developer and Project Manager
+    technologies:
+      - React Native
+      - Expo
+      - TypeScript
+      - Firebase
+      - git
+    description: Designed and developed a sophisticated and intuitive React Native application using the Expo framework for a leading esthetician practice, "Beauty and the Brow". The application effectively streamlined the multi-step timing procedures inherent in beauty services such as lash and brow treatments.
+    github: 
+
+    client: Beauty and the Brow
+    Dual-Timer Functionality: Created a highly practical dual-timer feature that enables estheticians to manage different treatments independently and simultaneously, greatly improving time efficiency and customer satisfaction.
+    User-Friendly Interface: Ensured an easy-to-navigate and intuitive user interface, allowing estheticians to quickly set, monitor, and adjust timings as required for each procedure.
+    Note-Taking Feature: Integrated a simple and convenient note-taking system to allow estheticians to jot down important details during treatments, reducing the chances of human error and enhancing treatment precision.
+    Data Synchronization: Incorporated real-time data synchronization via Firebase, enabling estheticians to keep their notes and timings updated across multiple devices, facilitating seamless workflow irrespective of their device preference.
+    Product-Time Database: Developed a robust, searchable database that stores distinct time requirements for various products, aiding estheticians in adhering to product-specific instructions and achieving optimal results.
+    Collaborative Working: Actively engaged with the founder of "Beauty and the Brow" throughout the project, accommodating her specifications and preferences into the application design to ensure it met her high standards and requirements. This close collaboration ensured that the end product perfectly matched the needs and expectations of its primary users.
+
+  - name: Breed Up
+    role: Lead Developer and Project Manager
+    technologies:
+      - React Native
+      - Expo
+      - Firebase
+      - Geojson
+      - TypeScript
+    description: Developed a robust, user-friendly mobile application, "BreedUp", leveraging React Native and Expo for seamless cross-platform deployment. BreedUp offers dog owners a dynamic and interactive social platform to post and tag their dogs, plan playdates, and comment on pup photos shared by other users. 
+    app-store:
+      https://apps.apple.com/ca/app/breed-up-lets-breed-up/id1422524389
+    github: 
+      https://github.com/technoplato/BreedUp
+    responsibilities:
+      - React Native and Expo: Utilized React Native and Expo to build the frontend of the application, ensuring a unified user experience across different mobile platforms. Implemented an intuitive and engaging UI/UX design.
+      - Firebase Integration: Integrated Firebase for real-time database management, user authentication, and storage of multimedia content. Ensured secure user sign-in/sign-up process and efficient data retrieval of user profiles and pup posts.
+      - Geo-based Filtering with GeoJSON: Incorporated GeoJSON to enable geo-based filtering, allowing users to search and discover posts within a specified location range. This feature significantly enhanced the app's functionality by enabling users to organize local playdates and share location-specific posts.
+      - Interactive Community Platform: Created a feature-rich community platform where users can interact through comments on pup photos, fostering a lively and engaged community of dog lovers. Implemented notification functionalities to keep users updated on the latest interactions on their posts.
+      - Project Management: Oversaw the project from inception to deployment, ensuring timely completion within the proposed budget. Coordinated with a designers and product owner to ensure seamless integration of different project components.
+   
+  - name: Cookies By Us
+    description: Led the development of Cookies By Us, an innovative mobile application that connects custom bakers with potential clients. The platform allows bakers to showcase their unique creations, enabling buyers to browse, interact, and directly place orders through a private chat system. 
+    technologies:
+      - React Native
+      - Expo
+      - Firebase
+    github: 
+      https://github.com/technoplato/BreedUp
+    responsibilities:
+      - React Native and Expo: Employed React Native and Expo for the frontend development, delivering a consistent and intuitive user interface across different mobile platforms. Crafted a seamless user experience with easy navigation and engaging designs.
+      - Firebase Integration: Leveraged Firebase for secure user authentication, real-time database management, and storage of multimedia content. Streamlined the process of user registration and facilitated efficient retrieval and storage of product listings.
+      - Seller-Buyer Direct Interaction: Implemented a private chat system, enabling direct communication between bakers and clients. This feature boosted user engagement by facilitating immediate and personalized communication, paving the way for order customization and negotiation.
+      - Project Management: Directed the entire project lifecycle from conception to launch, ensuring a timely delivery within the proposed budget. Collaborated with a multidisciplinary team to integrate different aspects of the project seamlessly.
+     
   - name: TV Portal
     technologies:
       - Android
+    github: https://github.com/tvportal/android
+
   - name: Android Open Source Benchmark Suite
     technologies:
       - Android
+
   - name: [WIP] Organic Software
     technologies:
       - SwiftUI
+      - OpenAI APIs
+      - LLMs
+      - WebSockets
+      - Apple Speech Framework
+      - Deepgram APIs
+      - The Composable Architecture
 
 awards:
+
   - title: Winner - XState Orlando Devs 2023 Hackathon
     date: Jan 2023
+    github: aaa
+
   - title: Inaugural Android Developer Career Summit Attendee
     date: Nov 2015
 
 education: 
-  - school: MiTech LT, LLC
-    title: Chief Customer Officer
-    start: Nov 2012
-    end: Mar 2015
-    responsibilites:
-      - Founded top-charting Android mobile application
-      - Managed Android app with over 2,000,000 downloads and earnings over $40,000
-      - Collaborated with designers and developers worldwide
-      - Maintained excellent customer support, achieving a high rating on Google Play Store
+
+  - school: Florida State University  
+    major: Computer Science 
+    minor: Mathematics
+    focus: Mentoring/Teaching
+    graduated: 2015
+
+  - school: Udacity
+    course: Android Development
+    graduated: 2014
 
 contact_information:
   linkedin: 
@@ -162,7 +274,122 @@ contact_information:
     https://github.com/technoplato/portfolio
   portfolio: 
     https://github.com/technoplato/portfolio
-  phone: <phone_number>
-  email: <email_address>
+  stackoverflow:
+    https://stackoverflow.com/users/2441420/lustig
+  phone: 
+    16189808247
+  email: 
+    lustig@knophy.com
 
-hobbies: []
+technologies/frameworks:
+  react: 
+    - advanced
+    - professional
+  react-native:
+    - advanced
+    - professional
+  typescript:
+    - experienced
+    - professional
+  javascript:
+    - experienced
+    - professional
+  graphql:
+    - experienced
+    - professional
+  apollo-graphql:
+    - experienced
+    - professional
+  nodejs:
+    - experienced
+    - professional
+  python:
+    - experienced
+    - hobby
+  swift:
+    - experienced
+    - hobby
+  kotlin:
+    - familiarity
+    - professional
+  nextjs:
+    - experienced
+    - professional
+  expo:
+    - expereinced
+    - professional
+  github-actions:
+    - experienced
+    - professional
+  continuous-integration:
+    - experienced
+    - professional
+  continuous-delivery:
+    - experienced
+    - professional
+  project-management:
+    - experienced
+    - professional
+  web-sockets:
+    - experienced
+    - hobby
+  express:
+    - intermediate
+    - hobby
+  docker:
+    - intermediate
+    - hobby
+  firebase:
+    - experienced
+    - professional
+  ios-development:
+    - intermediate
+    - hobby
+  swiftui:
+    - intermediate
+    - hobby
+  the-composable-architecture:
+    - intermediate
+    - hobby
+  xstate:
+    - intermediate
+    - professional
+  android-development:
+    - experienced
+    - professional
+  rust: 
+    - exposure
+    - hobby
+  solana:
+    - experience
+    - hobby
+  git: 
+    - experienced
+    - professional
+  large-language-models:
+    - experienced
+    - hobby
+  open-ai-api:
+    - experienced
+    - hobby
+  Software Course Creation:
+    - experienced
+    - professional
+  Software Mentorship:
+    - experienced
+    - professional
+  storybook:
+    - experienced
+    - professional
+  jest:
+    - experienced
+    - professional
+  cypress:
+    - experienced
+    - professional
+  percy:
+    - professional
+  chromatic:
+    - professional
+  design-systems:
+    - professional
