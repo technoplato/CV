@@ -20,6 +20,7 @@ experience:
       - Cypress
       - Percy
       - Chromatic
+      - rollup
     responsibilites:
       - Led company-wide effort to establish a library of shared React components
       - Created, maintained, and updated a Github Workflow to cache, test, build, and release our shared-components
@@ -167,10 +168,13 @@ experience:
       - Founded top-charting Android mobile application
       - Managed Android app with over 2,000,000 downloads and earnings over $40,000
       - Collaborated with designers and developers worldwide
-      - Maintained excellent customer support, achieving a high rating on Google Play Store
+      - Maintained excellent customer support, achieving a high rating on Google Play Store, responding to thousands of user emails and triaging requested features and bug reports
+      - Respond promptly to Play Store reviews to ensure we maintained over a 4.7/5 rating
 
 projects:
+
   - name: Beauty Time
+    type: client
     role: Lead Developer and Project Manager
     technologies:
       - React Native
@@ -180,7 +184,6 @@ projects:
       - git
     description: Designed and developed a sophisticated and intuitive React Native application using the Expo framework for a leading esthetician practice, "Beauty and the Brow". The application effectively streamlined the multi-step timing procedures inherent in beauty services such as lash and brow treatments.
     github: 
-
     client: Beauty and the Brow
     Dual-Timer Functionality: Created a highly practical dual-timer feature that enables estheticians to manage different treatments independently and simultaneously, greatly improving time efficiency and customer satisfaction.
     User-Friendly Interface: Ensured an easy-to-navigate and intuitive user interface, allowing estheticians to quickly set, monitor, and adjust timings as required for each procedure.
@@ -189,7 +192,52 @@ projects:
     Product-Time Database: Developed a robust, searchable database that stores distinct time requirements for various products, aiding estheticians in adhering to product-specific instructions and achieving optimal results.
     Collaborative Working: Actively engaged with the founder of "Beauty and the Brow" throughout the project, accommodating her specifications and preferences into the application design to ensure it met her high standards and requirements. This close collaboration ensured that the end product perfectly matched the needs and expectations of its primary users.
 
+
+  - name: [WIP] Organic Software
+    type: hobby
+    role: Hobby Project
+    description: Building an iOS SwiftUI application with The Composable Architecture that will transcribe the user's speech live on device, send that transcription to a server running on a server with access to the application's source code, pipe that transcription through an LLM processing pipeline, and extract any instructions for how the application should modify itself. The LLM pipeline will then emit source code modifications, create a Pull Request and present the proposed changes to the user for their further modification or confirmation. Once the changes are confirmed, we then apply those changes to the source code and push out a new update via CI/CD to the user, thereby allowing the user to speak to the software to configure it to their liking and desired set of functionality. 
+    technologies:
+      - SwiftUI
+      - OpenAI APIs
+      - LLMs
+      - WebSockets
+      - Apple Speech Framework
+      - Deepgram APIs
+      - The Composable Architecture
+      - Github Actions
+      - CI/CD
+      - Flask Server
+
+  - name: Proof of Listening (Solana Grizzlython 6-week Hackathon Submission)
+    type: hobby, hackathon
+    role: Lead Fullstack & Smart Contract Developer, Project Manager
+    technologies:
+      - Solana
+      - Rust
+      - Python
+      - Swift Kitura WebSocket Server
+      - ShazamKit
+      - React
+      - SwiftUI
+      - whisper.cpp Voice Transcription Library 
+      - ngrok
+      - TypeScript
+      - Firebase
+      - Audio Processing
+      - git
+    description: In a month-long hackathon, conceptualized and developed an innovative, cross-platform audio recognition and transcription system titled "Proof of Listening". The system utilized a myriad of technologies and programming languages to automatically recognize, subtitle, and transcribe any video content, regardless of the hosting platform, enabling users to mint a Solana NFT to proove on-chain that they have listened to the content.
+    github: todo
+    IPython Notebook Implementation: Developed an IPython Notebook that processed YouTube videos by downloading the audio using yt-dlp.
+    Audio Transcription: Utilized and modified a more performant C++ version of OpenAI's Whisper Transcription model, whisper.cpp, to transcribe the audio with above human quality for free.
+    Audio Recognition and Cataloging: Associated transcribed audio with sound signatures from the video content and added these to a custom ShazamKit catalog to provide audio recognition capabilities.
+    Swift Server and Client Pool Maintenance: Leveraged the Kitura WebSocket library to build a Swift server. Maintained a client pool with their individual WebSocket connections and Shazam Recognition Session.
+    Solana NFT Minting: Programmed a Solana smart contract using Rust and the Solana SDK, enabling a dynamic mint price based on-chain metadata stored as a Program Derived Account. Deployed the contract to the Solana testnet which, upon audio recognition, allowed users to mint a Solana NFT as proof of content consumption.
+    Proxy Wallet Implementation: Created a "proxy wallet" for Solana using Expo to facilitate quick transactions from the user's phone. This wallet was designed to hold a minimal amount of funds sufficient for transactions, forwarding purchases to the user's primary cryptocurrency wallet.
+    Impact and Utility: The system empowered users with automatic recognition and transcription of any video content they're listening to and the capability to mint NFTs as proof of content consumption, adding a new dimension to the digital content consumption experience.
+
   - name: Breed Up
+    type: client
     role: Lead Developer and Project Manager
     technologies:
       - React Native
@@ -216,7 +264,7 @@ projects:
       - Expo
       - Firebase
     github: 
-      https://github.com/technoplato/BreedUp
+      https://github.com/technoplato/
     responsibilities:
       - React Native and Expo: Employed React Native and Expo for the frontend development, delivering a consistent and intuitive user interface across different mobile platforms. Crafted a seamless user experience with easy navigation and engaging designs.
       - Firebase Integration: Leveraged Firebase for secure user authentication, real-time database management, and storage of multimedia content. Streamlined the process of user registration and facilitated efficient retrieval and storage of product listings.
@@ -224,23 +272,19 @@ projects:
       - Project Management: Directed the entire project lifecycle from conception to launch, ensuring a timely delivery within the proposed budget. Collaborated with a multidisciplinary team to integrate different aspects of the project seamlessly.
      
   - name: TV Portal
+    type: founder
     technologies:
       - Android
     github: https://github.com/tvportal/android
 
-  - name: Android Open Source Benchmark Suite
+  - name: Android Open Source Benchmark Suite (IEEE Publication contribution)
+    type: research
+    year: 2015
+    link: https://ieeexplore.ieee.org/document/7482089
+    role: Android Software Developer
+    description: Modified open source Android applications such as "GemBlaster", "Doom", and others to run deterministically within the Agave Benchmark suite.
     technologies:
       - Android
-
-  - name: [WIP] Organic Software
-    technologies:
-      - SwiftUI
-      - OpenAI APIs
-      - LLMs
-      - WebSockets
-      - Apple Speech Framework
-      - Deepgram APIs
-      - The Composable Architecture
 
 awards:
 
@@ -280,6 +324,8 @@ contact_information:
     16189808247
   email: 
     lustig@knophy.com
+  ieee:
+    https://ieeexplore.ieee.org/author/37089136214
 
 technologies/frameworks:
   react: 
