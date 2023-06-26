@@ -132,7 +132,7 @@ experience:
     - Designed, created, and recorded three courses for Firebase for Android and Styling Android Applications
     - Collaborated with designers and course managers to ensure the material covered all the fundamentals
     - Had complete creative freedom over the content and teaching methods
-    - Adapted and stretched the lessons to ensure comprehensive teaching
+    - Adapted and wrote lessons to ensure comprehensive teaching, covering the exact curriculum while keeping content fun and engaging
   courses:
     - title: Getting started with Firebase on Android
       link: https://teamtreehouse.com/library/getting-started-with-firebase
@@ -158,22 +158,41 @@ experience:
       - Help students create a competitive portfolio of Android applications
       - Prepare students for mobile development workforce
 
-  - name: Advanced Systems Group, LLC
-    title: Android Developer Training Specialist, ASG @ Google
-    start: Jan 2016
-    end: Dec 2016
-    technologies:
-      - Python
-      - Android development
-      - git
-      - Public Speaking
-      - Software Course Creation
-    responsibilites:
-      - Restructured existing “Developing Android Apps” course on Udacity
-      - Outlined, scripted, reorganized, and recorded content for the updated course
-      - Wrote and created exercise and solution pairs for example applications
-      - Refactored codebase of the “Sunshine” Android application
-      - Built "Toy Applications" that demonstrate core Android development concepts with minimal cognitive load on students
+
+- name: ASG @ Google
+  title: Android Subject Matter Expert & Trainer
+  start: Jan 2016
+  end: Dec 2016
+  location: Mountain View, CA / Fully Remote beginning July
+  technologies:
+    - Android Development
+    - Python
+    - Git
+  soft_skills:
+    - Collaboration
+    - Creativity
+    - Communication
+    - Teaching
+    - Problem Solving
+    - Public Speaking
+    - Interactive Educational Content
+    - Software Course Creation
+  responsibilities:
+    - Significantly improved clarity for students and quality of code for the Android Fundamentals course created in conjunction between Google and Udacity.
+    - Undertook a complete overhaul of the previous Android Fundamentals class, revamping it to teach each fundamental via toy examples that demonstrate concepts in isolation.
+    - Created interactive TODOs for students to easily follow along in the IDE.
+    - Worked with instructors from Udacity to create Python scripts for maintaining and updating upstream dependencies for exercises.
+    - Utilize complex Python script to cleanly apply fixes to the delicate commit history and to create folder structure for students.
+    - Outlined, scripted, reorganized, and recorded content for the updated course
+    - Wrote and created exercise and solution pairs for example applications
+    - Built "Toy Applications" that demonstrate core Android development concepts with minimal cognitive load on students
+    
+  courses:
+    - title: Android Fundamentals
+      link: https://www.udacity.com/course/new-android-fundamentals--ud851
+      code: https://github.com/udacity/ud851-Sunshine
+      interactive_todos: https://github.com/udacity/ud851-Sunshine/blob/student/S01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_forecast.xml#L17-L18
+
 
   - name: 6voices, LLC
     title: Android Developer
@@ -197,12 +216,16 @@ experience:
     title: Chief Customer Officer
     start: Nov 2012
     end: Mar 2015
+    github: https://github.com/tvportal/android
     responsibilites:
-      - Founded top-charting Android mobile application
+      - Founded top-charting Android mobile application, TV Portal
       - Managed Android app with over 2,000,000 downloads and earnings over $40,000
       - Collaborated with designers and developers worldwide
+      - Grow social media presence on Facebook to over 27,000 followers
       - Maintained excellent customer support, achieving a high rating on Google Play Store, responding to thousands of user emails and triaging requested features and bug reports
       - Respond promptly to Play Store reviews to ensure we maintained over a 4.7/5 rating
+      - Open source application nearly has 100 stars on Github
+      - Responded to 1,000's of customer emails to ensure excellent customer support, complete user satisfaction, and to triage bugs and field feature requests
 
 projects:
 
