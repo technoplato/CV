@@ -371,6 +371,26 @@ projects:
     technologies:
       - Android
 
+publications:
+  - name: Firebase Tutorials
+    description: Various Tutorials on Firebase I've created on my YouTube channel
+    url: https://www.youtube.com/playlist?list=PL3z1TiLmRFcyPDdFefqCxhMPsLHp1S6A8
+   - name: React Tutorials
+    description: Various Tutorials on React I've created on my YouTube channel
+    url: https://www.youtube.com/playlist?list=PL3z1TiLmRFcwpxfUpMtZOwJZ3aBNDW2De
+   - name: Swift/SwiftUI Tutorials
+    description: Various Tutorials on SwiftUI I've created on my YouTube channel
+    url: https://www.youtube.com/playlist?list=PL3z1TiLmRFcyDdkFd4N5b3PcLdrTU8eWx
+  - name: Getting started with Firebase on Android
+    description: Workshop I created for Treehouse
+    url: https://teamtreehouse.com/library/getting-started-with-firebase
+  - name: Build a realtime-chat application with Firebase
+    description: Workshop I created for Treehouse
+    url: https://teamtreehouse.com/library/build-a-realtime-database-app-with-firebase
+  - name: Styles and Themes on Android
+    description: Workshop I created for Treehouse
+    url: https://teamtreehouse.com/library/styles-and-themes-in-android
+
 awards:
 
   - name: NoIssue - Winner - XState Orlando Devs 2023 Hackathon
