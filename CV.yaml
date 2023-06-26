@@ -9,8 +9,6 @@ experience:
       - React
       - Product Engineering
       - Github Actions
-      - Continuous Improvement
-      - Leadership
       - GraphQL
       - Apollo GraphQL
       - TypeScript
@@ -21,6 +19,10 @@ experience:
       - Percy
       - Chromatic
       - rollup
+    soft-skills:
+      - Continuous Improvement
+      - Leadership
+
     responsibilites:
       - Led company-wide effort to establish a library of shared React components
       - Created, maintained, and updated a Github Workflow to cache, test, build, and release our shared-components
@@ -108,6 +110,37 @@ experience:
       - Used JIRA for bug tracking, issue tracking, and project management
       - Excellent communication and teamwork in an agile environment
       - Used git flow to maintain and organize code changes
+
+- name: Team Treehouse
+  title: Android Guest Lecturer
+  start: Oct 2017
+  end: Feb 2018
+  location: Orlando, FL
+  technologies:
+    - Firebase
+    - Android Development
+    - Video Recording
+    - Content Creation
+    - Curriculum Design
+  soft_skills:
+    - Collaboration
+    - Creativity
+    - Communication
+    - Teaching
+    - Critical Thinking
+  responsibilities:
+    - Designed, created, and recorded three courses for Firebase for Android and Styling Android Applications
+    - Collaborated with designers and course managers to ensure the material covered all the fundamentals
+    - Had complete creative freedom over the content and teaching methods
+    - Adapted and stretched the lessons to ensure comprehensive teaching
+  courses:
+    - title: Getting started with Firebase on Android
+      link: https://teamtreehouse.com/library/getting-started-with-firebase
+    - title: Build a realtime-chat application with Firebase
+      link: https://teamtreehouse.com/library/build-a-realtime-database-app-with-firebase
+    - title: Styles and Themes on Android
+      link: https://teamtreehouse.com/library/styles-and-themes-in-android
+
 
   - name: Bloc, Inc.
     title: Android Mentor
@@ -267,7 +300,7 @@ projects:
       - Expo
       - Firebase
     responsibilities:
-      - React Native and Expo: Employed React Native and Expo for the frontend development, delivering a consistent and intuitive user interface across different mobile platforms. Crafted a seamless user experience with easy navigation and engaging designs.
+      - React Native and Expo: Utilized React Native / Expo for the frontend development, delivering a consistent and intuitive user interface across different mobile platforms. Crafted a seamless user experience with easy navigation and engaging designs.
       - Firebase Integration: Leveraged Firebase for secure user authentication, real-time database management, and storage of multimedia content. Streamlined the process of user registration and facilitated efficient retrieval and storage of product listings.
       - Seller-Buyer Direct Interaction: Implemented a private chat system, enabling direct communication between bakers and clients. This feature boosted user engagement by facilitating immediate and personalized communication, paving the way for order customization and negotiation.
       - Project Management: Directed the entire project lifecycle from conception to launch, ensuring a timely delivery within the proposed budget. Collaborated with a multidisciplinary team to integrate different aspects of the project seamlessly.
