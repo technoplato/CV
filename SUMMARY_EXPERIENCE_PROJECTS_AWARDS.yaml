@@ -1,12 +1,3 @@
-todo:
- - Adding a Summary or Objective
- - Use of Capitalization
- - For the award "Winner - XState Orlando Devs 2023 Hackathon", there is a GitHub placeholder ("aaa").
- - Verify all secrets out of public repos
- - ensure github links are all correct
- - grab demos of all applications where relevant
-
-
 experience:
 
   - name: Prosper Marketplace
@@ -192,15 +183,14 @@ projects:
       - Firebase
       - git
     description: Designed and developed a sophisticated and intuitive React Native application using the Expo framework for a leading esthetician practice, "Beauty and the Brow". The application effectively streamlined the multi-step timing procedures inherent in beauty services such as lash and brow treatments.
-    github: 
+    github: https://github.com/technoplato/BeautyTime
     client: Beauty and the Brow
     Dual-Timer Functionality: Created a highly practical dual-timer feature that enables estheticians to manage different treatments independently and simultaneously, greatly improving time efficiency and customer satisfaction.
     User-Friendly Interface: Ensured an easy-to-navigate and intuitive user interface, allowing estheticians to quickly set, monitor, and adjust timings as required for each procedure.
     Note-Taking Feature: Integrated a simple and convenient note-taking system to allow estheticians to jot down important details during treatments, reducing the chances of human error and enhancing treatment precision.
     Data Synchronization: Incorporated real-time data synchronization via Firebase, enabling estheticians to keep their notes and timings updated across multiple devices, facilitating seamless workflow irrespective of their device preference.
-    Product-Time Database: Developed a robust, searchable database that stores distinct time requirements for various products, aiding estheticians in adhering to product-specific instructions and achieving optimal results.
+    Product-Time Database: Utilized a searchable database that stores distinct time requirements for various products, aiding estheticians in adhering to product-specific instructions and achieving optimal results for clients.
     Collaborative Working: Actively engaged with the founder of "Beauty and the Brow" throughout the project, accommodating her specifications and preferences into the application design to ensure it met her high standards and requirements. This close collaboration ensured that the end product perfectly matched the needs and expectations of its primary users.
-
 
   - name: [WIP] Organic Software
     type: hobby
@@ -221,6 +211,7 @@ projects:
   - name: Proof of Listening (Solana Grizzlython 6-week Hackathon Submission)
     type: hobby, hackathon
     role: Lead Fullstack & Smart Contract Developer, Project Manager
+    demo: https://youtu.be/OMApXzEV_co?t=58
     technologies:
       - Solana
       - Rust
@@ -248,12 +239,15 @@ projects:
   - name: Breed Up
     type: client
     role: Lead Developer and Project Manager
+    demo: (early prototype) https://www.youtube.com/watch?v=ZUq3W3lm9r0
     technologies:
       - React Native
       - Expo
       - Firebase
+      - Firebase Storage
       - Geojson
       - TypeScript
+      - react-native-photo-picker
     description: Developed a robust, user-friendly mobile application, "BreedUp", leveraging React Native and Expo for seamless cross-platform deployment. BreedUp offers dog owners a dynamic and interactive social platform to post and tag their dogs, plan playdates, and comment on pup photos shared by other users. 
     app-store:
       https://apps.apple.com/ca/app/breed-up-lets-breed-up/id1422524389
@@ -272,8 +266,6 @@ projects:
       - React Native
       - Expo
       - Firebase
-    github: 
-      https://github.com/technoplato/
     responsibilities:
       - React Native and Expo: Employed React Native and Expo for the frontend development, delivering a consistent and intuitive user interface across different mobile platforms. Crafted a seamless user experience with easy navigation and engaging designs.
       - Firebase Integration: Leveraged Firebase for secure user authentication, real-time database management, and storage of multimedia content. Streamlined the process of user registration and facilitated efficient retrieval and storage of product listings.
@@ -297,11 +289,17 @@ projects:
 
 awards:
 
-  - title: Winner - XState Orlando Devs 2023 Hackathon
+  - name: NoIssue - Winner - XState Orlando Devs 2023 Hackathon
+    description: Developed a convenient front-end tool that integrates with GitHub repositories to provide a comprehensive overview of issues from within your web app. This streamlined the development workflow, particularly benefiting developers with single monitor setups or those wanting to keep dev-admin work within their standard workflow.
+    github: https://github.com/technoplato/NoIssue
+    technologies:
+      - React
+      - Material-UI
+      - XState
+      - GitHub API
     date: Jan 2023
-    github: aaa
 
-  - title: Inaugural Android Developer Career Summit Attendee
+  - name: Inaugural Android Developer Career Summit Attendee
     date: Nov 2015
 
 education: 
