@@ -1,3 +1,12 @@
+todo:
+ - Adding a Summary or Objective
+ - Use of Capitalization
+ - For the award "Winner - XState Orlando Devs 2023 Hackathon", there is a GitHub placeholder ("aaa").
+ - Verify all secrets out of public repos
+ - ensure github links are all correct
+ - grab demos of all applications where relevant
+
+
 experience:
 
   - name: Prosper Marketplace
@@ -24,7 +33,7 @@ experience:
     responsibilites:
       - Led company-wide effort to establish a library of shared React components
       - Created, maintained, and updated a Github Workflow to cache, test, build, and release our shared-components
-      - Impelemented visual regression testing using Percy and Chromatic, closely collaborating with Design and Product teams to ensure individual components matched intended designs to the pixel
+      - Implemented visual regression testing using Percy and Chromatic, closely collaborating with Design and Product teams to ensure individual components matched intended designs to the pixel
       - Interfaced with various teams across Product, UX, and Engineering in order to get new projects off the ground
       - Led "North Star" Front End meetings to discuss, plan, and create Proof of Concepts for new technologies
       - Introduce shared-component team to "Any Decision Records" to solidify and record decisions made by the team to make them discoverable to future contributors
