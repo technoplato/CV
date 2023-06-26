@@ -1,3 +1,10 @@
+roles:
+ - Senior Fullstack Engineer
+ - Senior Frontend Engineer
+ - Senior Mobile Engineer
+ - Project Manager
+ - Engineering Lead
+
 experience:
 
   - name: Prosper Marketplace
@@ -227,6 +234,7 @@ experience:
       - Open source application nearly has 100 stars on Github
       - Responded to 1,000's of customer emails to ensure excellent customer support, complete user satisfaction, and to triage bugs and field feature requests
 
+
 projects:
 
   - name: Beauty Time
@@ -327,13 +335,33 @@ projects:
       - Firebase Integration: Leveraged Firebase for secure user authentication, real-time database management, and storage of multimedia content. Streamlined the process of user registration and facilitated efficient retrieval and storage of product listings.
       - Seller-Buyer Direct Interaction: Implemented a private chat system, enabling direct communication between bakers and clients. This feature boosted user engagement by facilitating immediate and personalized communication, paving the way for order customization and negotiation.
       - Project Management: Directed the entire project lifecycle from conception to launch, ensuring a timely delivery within the proposed budget. Collaborated with a multidisciplinary team to integrate different aspects of the project seamlessly.
-     
+
   - name: TV Portal
     type: founder
+    github: https://github.com/tvportal/android
     technologies:
       - Android
-    github: https://github.com/tvportal/android
-
+      - Play Store
+      - Third Party App Store Management
+    soft_skills:
+      - Communication
+      - Collaboration
+      - Creativity
+      - Problem Solving
+      - Public Speaking
+      - Customer Support
+      - Customer Satisfaction
+      - Project Management
+    responsibilites:
+      - Founded top-charting Android mobile application, TV Portal
+      - Managed Android app with over 2,000,000 downloads and earnings over $40,000
+      - Collaborated with designers and developers worldwide
+      - Grow social media presence on Facebook to over 27,000 followers
+      - Maintained excellent customer support, achieving a high rating on Google Play Store, responding to thousands of user emails and triaging requested features and bug reports
+      - Respond promptly to Play Store reviews to ensure we maintained over a 4.7/5 rating
+      - Open source application nearly has 100 stars on Github
+      - Responded to 1,000's of customer emails to ensure excellent customer support, complete user satisfaction, and to triage bugs and field feature requests
+      
   - name: Android Open Source Benchmark Suite (IEEE Publication contribution)
     type: research
     year: 2015
