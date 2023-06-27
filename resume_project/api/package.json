@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
   "license": "AGPL-version-3.0",
   "private": false,
   "engines": {
@@ -24,7 +23,7 @@
   },
   "contributors": [],
   "scripts": {
-    "start": "nodemon --exec ts-node index.ts",
+    "start": "nodemon",
     "test": ""
   },
   "dependencies": {
