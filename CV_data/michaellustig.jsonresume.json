@@ -1,0 +1,321 @@
+{
+  "basics": {
+    "name": "Michael Lustig",
+    "label": "",
+    "image": "",
+    "email": "lustig@knophy.com",
+    "phone": "16189808247",
+    "url": "https://github.com/technoplato/portfolio",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Orlando",
+      "countryCode": "1",
+      "region": "EST"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "in/michaellustig",
+        "url": "https://www.linkedin.com/in/michaellustig/"
+      },
+      {
+        "network": "GitHub",
+        "username": "technoplato",
+        "url": "https://github.com/technoplato"
+      },
+      {
+        "network": "Dev.to",
+        "username": "technoplato",
+        "url": "https://dev.to/technoplato"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "lustig",
+        "url": "https://stackoverflow.com/users/2441420/lustig"
+      },
+      {
+        "network": "IEEE",
+        "username": "",
+        "url": "https://ieeexplore.ieee.org/author/37089136214"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Prosper Marketplace",
+      "position": "Staff Engineer",
+      "url": "https://www.prosper.com/home-equity",
+      "startDate": "Mar 2022",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Led company-wide effort to establish a library of shared React components",
+        "Created, maintained, and updated a Github Workflow to cache, test, build, and release our shared-components",
+        "Implemented visual regression testing using Percy and Chromatic, closely collaborating with Design and Product teams to ensure individual components matched intended designs to the pixel",
+        "Interfaced with various teams across Product, UX, and Engineering in order to get new projects off the ground",
+        "Led \"North Star\" Front End meetings to discuss, plan, and create Proof of Concepts for new technologies",
+        "Introduce shared-component team to \"Any Decision Records\" to solidify and record decisions made by the team to make them discoverable to future contributors"
+      ]
+    },
+    {
+      "name": "Bakkt",
+      "position": "Fullstack Software Engineer",
+      "url": "https://bakkt.com",
+      "startDate": "Nov 2020",
+      "endDate": "Mar 2022",
+      "summary": "",
+      "highlights": [
+        "Led refactoring efforts and standardized best practices",
+        "Collaborated with VP of Design to establish scalable DesignOps",
+        "Applied Finite State Machines for modeling and simplifying complex interactions",
+        "Encouraged strong pair programming culture to enhance code quality, knowledge sharing and team morale",
+        "Guided new team members through codebase and technical debt management",
+        "Implement Native Objective C and Java modules for React Native to interface with Google Wallet and Apple Pay"
+      ]
+    },
+    {
+      "name": "Sam's Club",
+      "position": "React Native Engineer",
+      "url": "https://www.samsclub.com",
+      "startDate": "Aug 2020",
+      "endDate": "Oct 2020",
+      "summary": "",
+      "highlights": [
+        "Led 'MyClub' Front End team in establishing industry best practices",
+        "Quickly onboard and help organize team efforts for in-club release of 'MyClub' application",
+        "Refactor legacy components using industry best practices in React",
+        "Collaborate with mobile and design product team to develop features",
+        "Build Design Ops workflow to streamline design and development process",
+        "Establish strong isolation of concerns in order to mirror designs in live running Storybook code"
+      ]
+    },
+    {
+      "name": "TCT Ministries",
+      "position": "Android, iOS, React Native Developer",
+      "url": "https://www.tct.tv",
+      "startDate": "Jan 2015",
+      "endDate": "Jul 2020",
+      "summary": "",
+      "highlights": [
+        "Maintained senior-level problem-solving skills and technical knowledge",
+        "Reduced codebase size across iOS and Android platforms using React Native",
+        "Implemented GraphQL solution to consolidate API calls",
+        "Built greenfield software for media catalog and streaming applications",
+        "Monitored and fixed application bugs using Sentry",
+        "Interfaced with Brightcove APIs for content display and streaming",
+        "Collaborate with leadership to set the trajectory for suite of media applications",
+        "Manage Google Play Store and Apple App Store listings for suite of media applications"
+      ]
+    },
+    {
+      "name": "Omicron Media, Inc.",
+      "position": "Android Developer",
+      "url": "",
+      "startDate": "Apr 2017",
+      "endDate": "Feb 2018",
+      "summary": "",
+      "highlights": [
+        "Refactored outsourced code for Halogen Application",
+        "Used JIRA for bug tracking, issue tracking, and project management",
+        "Excellent communication and teamwork in an agile environment",
+        "Used git flow to maintain and organize code changes"
+      ]
+    },
+    {
+      "name": "Team Treehouse",
+      "position": "Android Guest Lecturer",
+      "url": "https://teamtreehouse.com/library/q:Michael-lustig",
+      "startDate": "Oct 2017",
+      "endDate": "Feb 2018",
+      "summary": "",
+      "highlights": [
+        "Designed, created, and recorded three courses for Firebase for Android and Styling Android Applications",
+        "Collaborated with designers and course managers to ensure the material covered all the fundamentals",
+        "Had complete creative freedom over the content and teaching methods",
+        "Adapted and wrote lessons to ensure comprehensive teaching, covering the exact curriculum while keeping content fun and engaging"
+      ]
+    },
+    {
+      "name": "ASG @ Google",
+      "position": "Android Subject Matter Expert & Trainer",
+      "url": "",
+      "startDate": "Jan 2016",
+      "endDate": "Dec 2016",
+      "summary": "",
+      "highlights": [
+        "Significantly improved clarity for students and quality of code for the Android Fundamentals course created in conjunction between Google and Udacity.",
+        "Undertook a complete overhaul of the previous Android Fundamentals class, revamping it to teach each fundamental via toy examples that demonstrate concepts in isolation.",
+        "Created interactive TODOs for students to easily follow along in the IDE.",
+        "Worked with instructors from Udacity to create Python scripts for maintaining and updating upstream dependencies for exercises.",
+        "Utilize complex Python script to cleanly apply fixes to the delicate commit history and to create folder structure for students.",
+        "Outlined, scripted, reorganized, and recorded content for the updated course",
+        "Wrote and created exercise and solution pairs for example applications",
+        "Built \"Toy Applications\" that demonstrate core Android development concepts with minimal cognitive load on students"
+      ]
+    },
+    {
+      "name": "6voices, LLC",
+      "position": "Android Developer",
+      "url": "",
+      "startDate": "Jun 2016",
+      "endDate": "Aug 2016",
+      "summary": "",
+      "highlights": [
+        "Used Firebase Realtime Database to deliver hand-picked Amazon Echo Skills daily",
+        "Built and deploy Android Native mobile application to Google Play Store",
+        "Manage and update application binaries and metadata on Google Play Store"
+      ]
+    },
+    {
+      "name": "FSU Mobile Lab",
+      "position": "Project Manager",
+      "url": "https://www.youtube.com/watch?v=SPOo4-RushE",
+      "startDate": "Jan 2015",
+      "endDate": "Dec 2015",
+      "summary": "",
+      "highlights": [
+        "Worked on projects such as the Open Source Mobile Benchmark suite",
+        "Modified open source Android applications for benchmark needs for Master's work",
+        "Responsible for managing contract work bids for the Florida State Mobile lab"
+      ]
+    },
+    {
+      "name": "MiTech LT, LLC",
+      "position": "Chief Customer Officer",
+      "url": "",
+      "startDate": "Nov 2012",
+      "endDate": "Mar 2015",
+      "summary": "",
+      "highlights": [
+        "Founded top-charting Android mobile application, TV Portal",
+        "Managed Android app with over 2,000,000 downloads and earnings over $40,000",
+        "Collaborated with designers and developers worldwide",
+        "Grow social media presence on Facebook to over 27,000 followers",
+        "Maintained excellent customer support, achieving a high rating on Google Play Store, responding to thousands of user emails and triaging requested features and bug reports",
+        "Respond promptly to Play Store reviews to ensure we maintained over a 4.7/5 rating",
+        "Open source application nearly has 100 stars on Github",
+        "Responded to 1,000's of customer emails to ensure excellent customer support, complete user satisfaction, and to triage bugs and field feature requests"
+      ]
+    },
+    {
+      "name": "Breed Up",
+      "position": "Lead Developer and Project Manager",
+      "url": "https://www.youtube.com/watch?v=SPOo4-RushE",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "React Native and Expo: Utilized React Native and Expo to build the frontend of the application, ensuring a unified user experience across different mobile platforms. Implemented an intuitive and engaging UI/UX design.",
+        "Firebase Integration: Integrated Firebase for real-time database management, user authentication, and storage of multimedia content. Ensured secure user sign-in/sign-up process and efficient data retrieval of user profiles and pup posts.",
+        "Geo-based Filtering with GeoJSON: Incorporated GeoJSON to enable geo-based filtering, allowing users to search and discover posts within a specified location range. This feature significantly enhanced the app's functionality by enabling users to organize local playdates and share location-specific posts.",
+        "Interactive Community Platform: Created a feature-rich community platform where users can interact through comments on pup photos, fostering a lively and engaged community of dog lovers. Implemented notification functionalities to keep users updated on the latest interactions on their posts.",
+        "Project Management: Oversaw the project from inception to deployment, ensuring timely completion within the proposed budget. Coordinated with a designers and product owner to ensure seamless integration of different project components."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Florida State University",
+      "area": "Computer Science",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Udacity",
+      "area": "Android Development",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2014",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "NoIssue - Winner - XState Orlando Devs 2023 Hackathon",
+      "date": "Jan 2023",
+      "awarder": "Orlando Developers Meetup & stately.ai",
+      "summary": "Developed a convenient front-end tool that integrates with GitHub repositories to provide a comprehensive overview of issues from within your web app. This streamlined the development workflow, particularly benefiting developers with single monitor setups or those wanting to keep dev-admin work within their standard workflow."
+    },
+    {
+      "title": "Inaugural Android Developer Career Summit Attendee",
+      "date": "Nov 2015",
+      "awarder": "Google",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Firebase Tutorials",
+      "publisher": "Michael Lustig - Youtube",
+      "releaseDate": "",
+      "url": "https://www.youtube.com/playlist?list=PL3z1TiLmRFcyPDdFefqCxhMPsLHp1S6A8"
+    },
+    {
+      "name": "React Tutorials",
+      "publisher": "Michael Lustig - Youtube",
+      "releaseDate": "",
+      "url": "https://www.youtube.com/playlist?list=PL3z1TiLmRFcwpxfUpMtZOwJZ3aBNDW2De"
+    },
+    {
+      "name": "Swift/SwiftUI Tutorials",
+      "publisher": "Michael Lustig - Youtube",
+      "releaseDate": "",
+      "url": "https://www.youtube.com/playlist?list=PL3z1TiLmRFcyDdkFd4N5b3PcLdrTU8eWx"
+    },
+    {
+      "name": "Getting started with Firebase on Android",
+      "publisher": "Treehouse",
+      "releaseDate": "",
+      "url": "https://teamtreehouse.com/library/getting-started-with-firebase"
+    },
+    {
+      "name": "Build a realtime-chat application with Firebase",
+      "publisher": "Treehouse",
+      "releaseDate": "",
+      "url": "https://teamtreehouse.com/library/build-a-realtime-database-app-with-firebase"
+    },
+    {
+      "name": "Styles and Themes on Android",
+      "publisher": "Treehouse",
+      "releaseDate": "",
+      "url": "https://teamtreehouse.com/library/styles-and-themes-in-android"
+    }
+  ],
+  "skills": [
+    { "name": "React", "level": "advanced", "keywords": [] },
+    { "name": "React Native", "level": "advanced", "keywords": [] },
+    { "name": "TypeScript", "level": "experienced", "keywords": [] },
+    { "name": "JavaScript", "level": "experienced", "keywords": [] },
+    { "name": "GraphQL", "level": "experienced", "keywords": [] },
+    { "name": "Apollo GraphQL", "level": "experienced", "keywords": [] },
+    { "name": "Node.js", "level": "experienced", "keywords": [] },
+    { "name": "Python", "level": "experienced", "keywords": [] },
+    { "name": "Swift", "level": "experienced", "keywords": [] },
+    { "name": "Kotlin", "level": "familiarity", "keywords": [] },
+    { "name": "Next.js", "level": "experienced", "keywords": [] },
+    { "name": "Expo", "level": "experienced", "keywords": [] },
+    { "name": "GitHub Actions", "level": "experienced", "keywords": [] },
+    { "name": "Jest", "level": "experienced", "keywords": [] },
+    { "name": "Enzyme", "level": "experienced", "keywords": [] },
+    { "name": "Firebase", "level": "experienced", "keywords": [] },
+    { "name": "Docker", "level": "familiarity", "keywords": [] },
+    { "name": "Java", "level": "experienced", "keywords": [] },
+    { "name": "Objective C", "level": "familiarity", "keywords": [] }
+  ],
+  "languages": [{ "language": "English", "fluency": "native speaker" }],
+  "interests": [
+    { "name": "Tennis", "keywords": [] },
+    { "name": "Swimming", "keywords": [] },
+    { "name": "Running", "keywords": [] },
+    { "name": "Playing with my dog", "keywords": [] }
+    { "name": "Cooking", "keywords": [] }
+  ],
+  "references": []
+}
