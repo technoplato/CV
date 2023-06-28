@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Michael Lustig",
-    "label": "",
+    "label": "Senior Fullstack Engineer",
     "image": "",
     "email": "lustig@knophy.com",
     "phone": "16189808247",
     "url": "https://github.com/technoplato/portfolio",
-    "summary": "",
+    "summary": "A seasoned software engineer with a diverse technical background and a passion for problem-solving, I have spent years refining my skills across multiple platforms, including Android, iOS, and web development. I have led multiple teams to success at companies like Prosper Marketplace, Bakkt, and Sam's Club, demonstrating my ability to not only code but also to inspire, manage, and innovate. My experience ranges from co-founding a top-charting Android app, TV Portal, to creating an industry-standard library of shared React components at Prosper. As a lifelong learner, I've leveraged educational platforms like Udacity and Treehouse, not only as a student but also as a teacher, imparting my knowledge on topics like Android development and Firebase. I was one of the select few chosen to attend the Inaugural Android Developer Career Summit by Google in 2015 and have won hackathons such as the XState Orlando Devs in 2023. Beyond coding, I enjoy playing tennis, cooking, and traveling with my wife.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -49,7 +49,7 @@
       "url": "https://www.prosper.com/home-equity",
       "startDate": "Mar 2022",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Oversaw a company-wide effort to establish a shared library of React components. Led in creating, maintaining, and updating Github Workflows, implemented visual regression testing, and facilitated cross-team collaborations for new projects. Championed front-end meetings to plan for new technologies and introduced a system for recording team decisions.",
       "highlights": [
         "Led company-wide effort to establish a library of shared React components",
         "Created, maintained, and updated a Github Workflow to cache, test, build, and release our shared-components",
@@ -65,7 +65,7 @@
       "url": "https://bakkt.com",
       "startDate": "Nov 2020",
       "endDate": "Mar 2022",
-      "summary": "",
+      "summary": "Took the lead in refactoring efforts and setting standardized best practices. Worked closely with VP of Design to establish scalable DesignOps, introduced Finite State Machines for better interaction modeling, and promoted a strong pair programming culture. Also guided new team members through the codebase and technical debt management.",
       "highlights": [
         "Led refactoring efforts and standardized best practices",
         "Collaborated with VP of Design to establish scalable DesignOps",
@@ -81,7 +81,7 @@
       "url": "https://www.samsclub.com",
       "startDate": "Aug 2020",
       "endDate": "Oct 2020",
-      "summary": "",
+      "summary": "Led the 'MyClub' front-end team in establishing industry best practices. Rapidly onboarded and organized team efforts for the application release, refactored legacy components using React best practices, and built a Design Ops workflow to streamline the process.",
       "highlights": [
         "Led 'MyClub' Front End team in establishing industry best practices",
         "Quickly onboard and help organize team efforts for in-club release of 'MyClub' application",
@@ -97,7 +97,7 @@
       "url": "https://www.tct.tv",
       "startDate": "Jan 2015",
       "endDate": "Jul 2020",
-      "summary": "",
+      "summary": "Demonstrated senior-level problem-solving skills and technical knowledge in maintaining iOS and Android platforms. Successfully reduced codebase size using React Native, implemented a GraphQL solution for API calls, and built greenfield software for media catalog and streaming applications.",
       "highlights": [
         "Maintained senior-level problem-solving skills and technical knowledge",
         "Reduced codebase size across iOS and Android platforms using React Native",
@@ -112,7 +112,7 @@
     {
       "name": "Omicron Media, Inc.",
       "position": "Android Developer",
-      "url": "",
+      "url": "Worked on refactoring outsourced code and effectively utilized JIRA for bug tracking and project management. Operated efficiently in an agile environment, and used git flow to maintain and organize code changes.",
       "startDate": "Apr 2017",
       "endDate": "Feb 2018",
       "summary": "",
@@ -129,7 +129,7 @@
       "url": "https://teamtreehouse.com/library/q:Michael-lustig",
       "startDate": "Oct 2017",
       "endDate": "Feb 2018",
-      "summary": "",
+      "summary": "Designed, created, and recorded three courses for Firebase for Android and Styling Android Applications. Collaborated with course managers and designers to ensure comprehensive coverage of the fundamentals.",
       "highlights": [
         "Designed, created, and recorded three courses for Firebase for Android and Styling Android Applications",
         "Collaborated with designers and course managers to ensure the material covered all the fundamentals",
@@ -140,10 +140,10 @@
     {
       "name": "ASG @ Google",
       "position": "Android Subject Matter Expert & Trainer",
-      "url": "",
+      "url": "https://github.com/technoplato/ud851-Exercises",
       "startDate": "Jan 2016",
       "endDate": "Dec 2016",
-      "summary": "",
+      "summary": "Improved the quality of code and clarity for students in the Android Fundamentals course created in conjunction between Google and Udacity. Undertook a complete overhaul of the course and created interactive TODOs for students to easily follow.",
       "highlights": [
         "Significantly improved clarity for students and quality of code for the Android Fundamentals course created in conjunction between Google and Udacity.",
         "Undertook a complete overhaul of the previous Android Fundamentals class, revamping it to teach each fundamental via toy examples that demonstrate concepts in isolation.",
@@ -151,17 +151,18 @@
         "Worked with instructors from Udacity to create Python scripts for maintaining and updating upstream dependencies for exercises.",
         "Utilize complex Python script to cleanly apply fixes to the delicate commit history and to create folder structure for students.",
         "Outlined, scripted, reorganized, and recorded content for the updated course",
+        "Refactored and simplified code for the course to be more easily understood by students for the Sunshine app, which was the core teaching arc for the course. (https://github.com/technoplato/ud851-Sunshine)",
         "Wrote and created exercise and solution pairs for example applications",
-        "Built \"Toy Applications\" that demonstrate core Android development concepts with minimal cognitive load on students"
+        "Built \"Toy Applications\" that demonstrate core Android development concepts with minimal cognitive load on students (https://github.com/technoplato/ud851-Exercises)"
       ]
     },
     {
       "name": "6voices, LLC",
       "position": "Android Developer",
-      "url": "",
+      "url": "Implemented Firebase Realtime Database to deliver hand-picked Amazon Echo Skills daily, built and deployed Android Native mobile application to Google Play Store.",
       "startDate": "Jun 2016",
       "endDate": "Aug 2016",
-      "summary": "",
+      "summary": "Worked on open-source projects, modified open-source Android applications for benchmark needs, and managed contract work bids.",
       "highlights": [
         "Used Firebase Realtime Database to deliver hand-picked Amazon Echo Skills daily",
         "Built and deploy Android Native mobile application to Google Play Store",
@@ -187,7 +188,7 @@
       "url": "",
       "startDate": "Nov 2012",
       "endDate": "Mar 2015",
-      "summary": "",
+      "summary": "Co-founded top-charting Android mobile application, TV Portal, managed over 2 million downloads and earnings over $40,000, grew social media presence on Facebook to over 27,000 followers.",
       "highlights": [
         "Founded top-charting Android mobile application, TV Portal",
         "Managed Android app with over 2,000,000 downloads and earnings over $40,000",
@@ -205,7 +206,7 @@
       "url": "https://www.youtube.com/watch?v=SPOo4-RushE",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "Utilized React Native and Expo to build the frontend of the application, integrated Firebase for real-time database management, incorporated GeoJSON to enable geo-based filtering, created a feature-rich community platform, and oversaw the project from inception to deployment.",
       "highlights": [
         "React Native and Expo: Utilized React Native and Expo to build the frontend of the application, ensuring a unified user experience across different mobile platforms. Implemented an intuitive and engaging UI/UX design.",
         "Firebase Integration: Integrated Firebase for real-time database management, user authentication, and storage of multimedia content. Ensured secure user sign-in/sign-up process and efficient data retrieval of user profiles and pup posts.",
@@ -223,7 +224,7 @@
       "studyType": "",
       "startDate": "",
       "endDate": "2015",
-      "gpa": "",
+      "gpa": "3.5",
       "courses": []
     },
     {
@@ -247,7 +248,7 @@
       "title": "Inaugural Android Developer Career Summit Attendee",
       "date": "Nov 2015",
       "awarder": "Google",
-      "summary": ""
+      "summary": "As one of the select few chosen from thousands of students, I had the distinguished opportunity to attend the Google Career Summit in Mountain View, through Udacity's Android Developer Nanodegree program. This coveted experience facilitated immense learning, networking, and a first-hand experience of developing an Android app during a themed hackathon"
     }
   ],
   "publications": [
@@ -307,14 +308,16 @@
     { "name": "Firebase", "level": "experienced", "keywords": [] },
     { "name": "Docker", "level": "familiarity", "keywords": [] },
     { "name": "Java", "level": "experienced", "keywords": [] },
-    { "name": "Objective C", "level": "familiarity", "keywords": [] }
+    { "name": "Objective C", "level": "familiarity", "keywords": [] },
+    { "name": "Neo4j", "level": "familiarity", "keywords": [] }
   ],
   "languages": [{ "language": "English", "fluency": "native speaker" }],
   "interests": [
     { "name": "Tennis", "keywords": [] },
     { "name": "Swimming", "keywords": [] },
     { "name": "Running", "keywords": [] },
-    { "name": "Playing with my dog", "keywords": [] }
+    { "name": "Playing with my dog", "keywords": [] },
+    { "name": "Traveling with my lovely wife", "keywords": [] },
     { "name": "Cooking", "keywords": [] }
   ],
   "references": []
