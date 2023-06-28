@@ -156,7 +156,7 @@
       "url": "Worked on refactoring outsourced code and effectively utilized JIRA for bug tracking and project management. Operated efficiently in an agile environment, and used git flow to maintain and organize code changes.",
       "startDate": "Apr 2017",
       "endDate": "Feb 2018",
-      "summary": "",
+      "summary": "Worked on refactoring outsourced code and effectively utilized JIRA for bug tracking and project management. Operated efficiently in an agile environment, and used git flow to maintain and organize code changes.",
       "highlights": [
         "Refactored outsourced code for Halogen Application",
         "Used JIRA for bug tracking, issue tracking, and project management",
@@ -258,9 +258,9 @@
     },
     {
       "name": "Bloc, Inc.",
-      "title": "Android Mentor",
-      "start": "Mar 2015",
-      "end": "Dec 2017",
+      "position": "Android Mentor",
+      "startDate": "Mar 2015",
+      "endDate": "Dec 2017",
       "technologies": [
         "Python",
         "Programming Tutor",
@@ -269,7 +269,7 @@
         "git",
         "Android Development"
       ],
-      "responsibilities": [
+      "highlights": [
         "Teach students with zero knowledge about Android, Java, or development",
         "Help students create a competitive portfolio of Android applications",
         "Prepare students for mobile development workforce"
