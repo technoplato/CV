@@ -42,6 +42,7 @@
       }
     ]
   },
+
   "work": [
     {
       "name": "Prosper Marketplace",
@@ -435,7 +436,7 @@
       "technologies": ["Android"]
     }
   ],
-  "volunteer": [],
+
   "education": [
     {
       "institution": "Florida State University",
@@ -456,6 +457,7 @@
       "courses": []
     }
   ],
+
   "awards": [
     {
       "title": "NoIssue - Winner - XState Orlando Devs 2023 Hackathon",
@@ -470,6 +472,7 @@
       "summary": "As one of the select few chosen from thousands of students, I had the distinguished opportunity to attend the Google Career Summit in Mountain View, through Udacity's Android Developer Nanodegree program. This coveted experience facilitated immense learning, networking, and a first-hand experience of developing an Android app during a themed hackathon"
     }
   ],
+
   "publications": [
     {
       "name": "Firebase Tutorials",
@@ -508,6 +511,7 @@
       "url": "https://teamtreehouse.com/library/styles-and-themes-in-android"
     }
   ],
+
   "skills": [
     { "name": "React", "level": "advanced", "keywords": [] },
     { "name": "React Native", "level": "advanced", "keywords": [] },
@@ -530,7 +534,9 @@
     { "name": "Objective C", "level": "familiarity", "keywords": [] },
     { "name": "Neo4j", "level": "familiarity", "keywords": [] }
   ],
+
   "languages": [{ "language": "English", "fluency": "native speaker" }],
+
   "interests": [
     { "name": "Tennis", "keywords": [] },
     { "name": "Swimming", "keywords": [] },
@@ -539,5 +545,7 @@
     { "name": "Traveling with my lovely wife", "keywords": [] },
     { "name": "Cooking", "keywords": [] }
   ],
-  "references": []
+
+  "references": [],
+  "volunteer": []
 }
