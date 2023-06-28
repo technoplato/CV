@@ -123,7 +123,7 @@ companies:
       - managing
 
 projects:
-  - name: Organic Software
+  - name: [WIP] Organic Software
     description: Building an LLM integrated with a Speech Transcription application that will allow the user to speak to it to alter its functionality and layout
     technologies: SwiftUI, The Composable Architecture
     relevant_for:
@@ -131,7 +131,7 @@ projects:
       - front end engineering
 
   - name: Proof of Listening - Solana Grizzlython
-    description: Built a Shazam like application for Podcasts that integrated with the Solana blockchain to allow users to mint "Proof of Listening" tickets. Created custom Solana Program to handle custom dynamic mint pricing based on metadata stored in a Program Derived Metadata Account.
+    description: Built a Shazam like application for Podcasts that integrated with the Solana blockchain to allow users to mint "Proof of Listening" NFTs. Created custom Solana Program to handle custom dynamic mint pricing based on metadata stored in a Program Derived Metadata Account.
     technologies: Swift Server, Websockets, Kitura, Swift, SwiftUI, React, Solana, Rust
     relevant_for:
       - front end engineering
