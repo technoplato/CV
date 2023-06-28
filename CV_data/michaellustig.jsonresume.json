@@ -57,6 +57,22 @@
         "Interfaced with various teams across Product, UX, and Engineering in order to get new projects off the ground",
         "Led \"North Star\" Front End meetings to discuss, plan, and create Proof of Concepts for new technologies",
         "Introduce shared-component team to \"Any Decision Records\" to solidify and record decisions made by the team to make them discoverable to future contributors"
+      ],
+      "technologies": [
+        "Node.js",
+        "React",
+        "Product Engineering",
+        "Github Actions",
+        "GraphQL",
+        "Apollo GraphQL",
+        "TypeScript",
+        "Storybook",
+        "Figma",
+        "jest",
+        "Cypress",
+        "Percy",
+        "Chromatic",
+        "rollup"
       ]
     },
     {
@@ -73,6 +89,16 @@
         "Encouraged strong pair programming culture to enhance code quality, knowledge sharing and team morale",
         "Guided new team members through codebase and technical debt management",
         "Implement Native Objective C and Java modules for React Native to interface with Google Wallet and Apple Pay"
+      ],
+      "technologies": [
+        "Node.js",
+        "React",
+        "React Native",
+        "Apollo GraphQL",
+        "TypeScript",
+        "Yarn Workspaces",
+        "Figma",
+        "Storybook"
       ]
     },
     {
@@ -89,7 +115,8 @@
         "Collaborate with mobile and design product team to develop features",
         "Build Design Ops workflow to streamline design and development process",
         "Establish strong isolation of concerns in order to mirror designs in live running Storybook code"
-      ]
+      ],
+      "technologies": ["React", "React Native", "Storybook"]
     },
     {
       "name": "TCT Ministries",
@@ -107,6 +134,19 @@
         "Interfaced with Brightcove APIs for content display and streaming",
         "Collaborate with leadership to set the trajectory for suite of media applications",
         "Manage Google Play Store and Apple App Store listings for suite of media applications"
+      ],
+      "technologies": [
+        "Python",
+        "Node.js",
+        "iOS Development",
+        "Swift",
+        "Kotlin",
+        "Java",
+        "Objective-C",
+        "Android Development",
+        "React Native",
+        "Apollo GraphQL",
+        "Brightcove Media Catalog and Streaming SDK"
       ]
     },
     {
@@ -121,6 +161,13 @@
         "Used JIRA for bug tracking, issue tracking, and project management",
         "Excellent communication and teamwork in an agile environment",
         "Used git flow to maintain and organize code changes"
+      ],
+      "technologies": [
+        "Model-View-Presenter",
+        "Android Development",
+        "Android SDK",
+        "Figma",
+        "git"
       ]
     },
     {
@@ -135,6 +182,13 @@
         "Collaborated with designers and course managers to ensure the material covered all the fundamentals",
         "Had complete creative freedom over the content and teaching methods",
         "Adapted and wrote lessons to ensure comprehensive teaching, covering the exact curriculum while keeping content fun and engaging"
+      ],
+      "technologies": [
+        "Firebase",
+        "Android Development",
+        "Video Recording",
+        "Content Creation",
+        "Curriculum Design"
       ]
     },
     {
@@ -154,7 +208,8 @@
         "Refactored and simplified code for the course to be more easily understood by students for the Sunshine app, which was the core teaching arc for the course. (https://github.com/technoplato/ud851-Sunshine)",
         "Wrote and created exercise and solution pairs for example applications",
         "Built \"Toy Applications\" that demonstrate core Android development concepts with minimal cognitive load on students (https://github.com/technoplato/ud851-Exercises)"
-      ]
+      ],
+      "technologies": ["Android Development", "Python", "Git"]
     },
     {
       "name": "6voices, LLC",
@@ -171,14 +226,14 @@
     },
     {
       "name": "FSU Mobile Lab",
-      "position": "Project Manager",
+      "position": "Project Manager / Open Source Android Application Developer",
       "url": "https://www.youtube.com/watch?v=SPOo4-RushE",
       "startDate": "Jan 2015",
       "endDate": "Dec 2015",
-      "summary": "",
+      "summary": "I worked on projects such as the Open Source Mobile Benchmark (Agave - https://ieeexplore.ieee.org/document/7482089) suite, and modified several Open Source Applications to run deterministically via the Agave Benchmark Suite as part of my Master's work. Also, I managed contract work bids for the Florida State Mobile lab.",
       "highlights": [
         "Worked on projects such as the Open Source Mobile Benchmark suite",
-        "Modified open source Android applications for benchmark needs for Master's work",
+        "Modified open source Android applications for benchmark needs for Master's work, which include the following applications: [BenchmarkMuPDF](https://github.com/lustigdev/BenchmarkMuPDF), [BenchmarkOfflineWikipedia](https://github.com/lustigdev/BenchmarkOfflineWikipedia), [BenchmarkImageLoader](https://github.com/lustigdev/BenchmarkImageLoader), [BenchmarkFrozenBubble](https://github.com/lustigdev/BenchmarkFrozenBubble)",
         "Responsible for managing contract work bids for the Florida State Mobile lab"
       ]
     },
@@ -201,6 +256,25 @@
       ]
     },
     {
+      "name": "Bloc, Inc.",
+      "title": "Android Mentor",
+      "start": "Mar 2015",
+      "end": "Dec 2017",
+      "technologies": [
+        "Python",
+        "Programming Tutor",
+        "Mentorship",
+        "Online Tutoring",
+        "git",
+        "Android Development"
+      ],
+      "responsibilities": [
+        "Teach students with zero knowledge about Android, Java, or development",
+        "Help students create a competitive portfolio of Android applications",
+        "Prepare students for mobile development workforce"
+      ]
+    },
+    {
       "name": "Breed Up",
       "position": "Lead Developer and Project Manager",
       "url": "https://www.youtube.com/watch?v=SPOo4-RushE",
@@ -214,6 +288,151 @@
         "Interactive Community Platform: Created a feature-rich community platform where users can interact through comments on pup photos, fostering a lively and engaged community of dog lovers. Implemented notification functionalities to keep users updated on the latest interactions on their posts.",
         "Project Management: Oversaw the project from inception to deployment, ensuring timely completion within the proposed budget. Coordinated with a designers and product owner to ensure seamless integration of different project components."
       ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Beauty Time",
+      "type": "client",
+      "role": "Lead Developer and Project Manager",
+      "technologies": ["React Native", "Expo", "TypeScript", "Firebase", "git"],
+      "description": "Designed and developed a sophisticated and intuitive React Native application using the Expo framework for a leading esthetician practice, 'Beauty and the Brow'. The application effectively streamlined the multi-step timing procedures inherent in beauty services such as lash and brow treatments.",
+      "github": "https://github.com/technoplato/BeautyTime",
+      "client": "Beauty and the Brow",
+      "features": [
+        "Created a highly practical dual-timer feature that enables estheticians to manage different treatments independently and simultaneously, greatly improving time efficiency and customer satisfaction.",
+        "Ensured an easy-to-navigate and intuitive user interface, allowing estheticians to quickly set, monitor, and adjust timings as required for each procedure.",
+        "Integrated a simple and convenient note-taking system to allow estheticians to jot down important details during treatments, reducing the chances of human error and enhancing treatment precision.",
+        "Incorporated real-time data synchronization via Firebase, enabling estheticians to keep their notes and timings updated across multiple devices, facilitating seamless workflow irrespective of their device preference.",
+        "Utilized a searchable database that stores distinct time requirements for various products, aiding estheticians in adhering to product-specific instructions and achieving optimal results for clients.",
+        "Actively engaged with the founder of 'Beauty and the Brow' throughout the project, accommodating her specifications and preferences into the application design to ensure it met her high standards and requirements. This close collaboration ensured that the end product perfectly matched the needs and expectations of its primary users."
+      ]
+    },
+    {
+      "name": "[WIP] Organic Software",
+      "type": "hobby",
+      "role": "Hobby Project",
+      "description": "I am constructing an iOS SwiftUI application utilizing The Composable Architecture, which transcribes user speech in real-time on-device. This transcription is then sent to a secured server with access to the application's source code. It further processes this transcription through a robust LLM processing pipeline to decipher instructions on potential modifications to the application. The LLM pipeline generates source code adjustments, subsequently crafting a Pull Request that presents proposed changes to the user for additional modification or approval. Once the user confirms the alterations, these changes are seamlessly integrated into the source code and deployed via a CI/CD pipeline. This sophisticated mechanism empowers users to verbally communicate with the software, customizing it to align with their preferences and desired functionality, thereby enhancing user experience and personalization.",
+      "technologies": [
+        "SwiftUI",
+        "OpenAI APIs",
+        "LLMs",
+        "WebSockets",
+        "Apple Speech Framework",
+        "Deepgram APIs",
+        "The Composable Architecture",
+        "Github Actions",
+        "CI/CD",
+        "Flask Server"
+      ]
+    },
+    {
+      "name": "Proof of Listening (Solana Grizzlython 6-week Hackathon Submission)",
+      "type": "hobby, hackathon",
+      "role": "Lead Fullstack & Smart Contract Developer, Project Manager",
+      "demo": "https://youtu.be/OMApXzEV_co?t=58",
+      "technologies": [
+        "Solana",
+        "Rust",
+        "Python",
+        "Swift Kitura WebSocket Server",
+        "ShazamKit",
+        "React",
+        "SwiftUI",
+        "whisper.cpp Voice Transcription Library",
+        "ngrok",
+        "TypeScript",
+        "Firebase",
+        "Audio Processing",
+        "git"
+      ],
+      "description": "In a month-long hackathon, conceptualized and developed an innovative, cross-platform audio recognition and transcription system titled 'Proof of Listening'. The system utilized a myriad of technologies and programming languages to automatically recognize, subtitle, and transcribe any video content, regardless of the hosting platform, enabling users to mint a Solana NFT to proove on-chain that they have listened to the content.",
+      "github": "https://github.com/technoplato/ProofOfListening",
+      "features": [
+        "Developed an IPython Notebook that processed YouTube videos by downloading the audio using yt-dlp.",
+        "Utilized and modified a more performant C++ version of OpenAI's Whisper Transcription model, whisper.cpp, to transcribe the audio with above human quality for free.",
+        "Associated transcribed audio with sound signatures from the video content and added these to a custom ShazamKit catalog to provide audio recognition capabilities.",
+        "Leveraged the Kitura WebSocket library to build a Swift server. Maintained a client pool with their individual WebSocket connections and Shazam Recognition Session.",
+        "Programmed a Solana smart contract using Rust and the Solana SDK, enabling a dynamic mint price based on-chain metadata stored as a Program Derived Account. Deployed the contract to the Solana testnet which, upon audio recognition, allowed users to mint a Solana NFT as proof of content consumption.",
+        "Created a 'proxy wallet' for Solana using Expo to facilitate quick transactions from the user's phone. This wallet was designed to hold a minimal amount of funds sufficient for transactions, forwarding purchases to the user's primary cryptocurrency wallet.",
+        "The system empowered users with automatic recognition and transcription of any video content they're listening to and the capability to mint NFTs as proof of content consumption, adding a new dimension to the digital content consumption experience."
+      ]
+    },
+    {
+      "name": "Breed Up",
+      "type": "client",
+      "role": "Lead Developer and Project Manager",
+      "demo": "(early prototype) https://www.youtube.com/watch?v=ZUq3W3lm9r0",
+      "technologies": [
+        "React Native",
+        "Expo",
+        "Firebase",
+        "Firebase Storage",
+        "Geojson",
+        "TypeScript",
+        "react-native-photo-picker"
+      ],
+      "description": "Developed a robust, user-friendly mobile application, 'BreedUp', leveraging React Native and Expo for seamless cross-platform deployment. BreedUp offers dog owners a dynamic and interactive social platform to post and tag their dogs, plan playdates, and comment on pup photos shared by other users.",
+      "app-store": "https://apps.apple.com/ca/app/breed-up-lets-breed-up/id1422524389",
+      "github": "https://github.com/technoplato/BreedUp",
+      "responsibilities": [
+        "Utilized React Native and Expo to build the frontend of the application, ensuring a unified user experience across different mobile platforms. Implemented an intuitive and engaging UI/UX design.",
+        "Integrated Firebase for real-time database management, user authentication, and storage of multimedia content. Ensured secure user sign-in/sign-up process and efficient data retrieval of user profiles and pup posts.",
+        "Incorporated GeoJSON to enable geo-based filtering, allowing users to search and discover posts within a specified location range. This feature significantly enhanced the app's functionality by enabling users to organize local playdates and share location-specific posts.",
+        "Created a feature-rich community platform where users can interact through comments on pup photos, fostering a lively and engaged community of dog lovers. Implemented notification functionalities to keep users updated on the latest interactions on their posts.",
+        "Oversaw the project from inception to deployment, ensuring timely completion within the proposed budget. Coordinated with a designers and product owner to ensure seamless integration of different project components."
+      ]
+    },
+    {
+      "name": "Cookies By Us",
+      "description": "Led the development of Cookies By Us, an innovative mobile application that connects custom bakers with potential clients. The platform allows bakers to showcase their unique creations, enabling buyers to browse, interact, and directly place orders through a private chat system.",
+      "technologies": ["React Native", "Expo", "Firebase"],
+      "responsibilities": [
+        "Utilized React Native / Expo for the frontend development, delivering a consistent and intuitive user interface across different mobile platforms. Crafted a seamless user experience with easy navigation and engaging designs.",
+        "Leveraged Firebase for secure user authentication, real-time database management, and storage of multimedia content. Streamlined the process of user registration and facilitated efficient retrieval and storage of product listings.",
+        "Implemented a private chat system, enabling direct communication between bakers and clients. This feature boosted user engagement by facilitating immediate and personalized communication, paving the way for order customization and negotiation.",
+        "Directed the entire project lifecycle from conception to launch, ensuring a timely delivery within the proposed budget. Collaborated with a multidisciplinary team to integrate different aspects of the project seamlessly."
+      ]
+    },
+    {
+      "name": "TV Portal",
+      "type": "founder",
+      "github": "https://github.com/tvportal/android",
+      "technologies": [
+        "Android",
+        "Play Store",
+        "Third Party App Store Management"
+      ],
+      "soft_skills": [
+        "Communication",
+        "Collaboration",
+        "Creativity",
+        "Problem Solving",
+        "Public Speaking",
+        "Customer Support",
+        "Customer Satisfaction",
+        "Project Management"
+      ],
+      "responsibilites": [
+        "Founded top-charting Android mobile application, TV Portal",
+        "Managed Android app with over 2,000,000 downloads and earnings over $40,000",
+        "Collaborated with designers and developers worldwide",
+        "Grow social media presence on Facebook to over 27,000 followers",
+        "Maintained excellent customer support, achieving a high rating on Google Play Store, responding to thousands of user emails and triaging requested features and bug reports",
+        "Respond promptly to Play Store reviews to ensure we maintained over a 4.7/5 rating",
+        "Open source application nearly has 100 stars on Github",
+        "Responded to 1,000's of customer emails to ensure excellent customer support, complete user satisfaction, and to triage bugs and field feature requests"
+      ]
+    },
+    {
+      "name": "Android Open Source Benchmark Suite (IEEE Publication contribution)",
+      "type": "research",
+      "year": 2015,
+      "link": "https://ieeexplore.ieee.org/document/7482089",
+      "role": "Android Software Developer",
+      "description": "Modified open source Android applications such as 'GemBlaster', 'Doom', and others to run deterministically within the Agave Benchmark suite.",
+      "technologies": ["Android"]
     }
   ],
   "volunteer": [],

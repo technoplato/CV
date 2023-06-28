@@ -165,12 +165,13 @@ Aug 2014 - Dec 2015 · 1 yr 5 mosAug 2014 - Dec 2015 · 1 yr 5 mos
 
 I work on projects such as the Open Source Mobile Benchmark suite.
 
-Here is a list of the Open Source Applications I have modified:
+Here is a list of the Open Source Applications I modified to run deterministically via the Agave Benchmark Suite:
 https://github.com/lustigdev/BenchmarkMuPDF
 https://github.com/lustigdev/BenchmarkOfflineWikipedia
 https://github.com/lustigdev/BenchmarkImageLoader
 https://github.com/lustigdev/BenchmarkFrozenBubble
 I work on projects such as the Open Source Mobile Benchmark suite. Here is a list of the Open Source Applications I have modified: https://github.com/lustigdev/BenchmarkMuPDF https://github.com/lustigdev/BenchmarkOfflineWikipedia https://github.com/lustigdev/BenchmarkImageLoader https://github.com/lustigdev/BenchmarkFrozenBubble
+
 Chief Customer Officer
 Chief Customer Officer
 MiTech LT, LLC · Full-timeMiTech LT, LLC · Full-time
