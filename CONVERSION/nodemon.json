@@ -1,0 +1,5 @@
+{
+  "watch": ["resume.fromjson.tomarkdown.py", "michaellustig.jsonresume.json"],
+  "ext": "py,json",
+  "exec": "python resume.fromjson.tomarkdown.py"
+}
