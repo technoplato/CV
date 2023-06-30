@@ -335,6 +335,8 @@
       "demo": "https://youtu.be/OMApXzEV_co?t=58",
       "technologies": [
         "Solana",
+        "Expo",
+        "React Native",
         "Rust",
         "Python",
         "Swift Kitura WebSocket Server",
