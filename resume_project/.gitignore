@@ -43,6 +43,7 @@ Thumbs.db
 # Neo4j data and logs
 neo4j/data
 neo4j/logs
+neo4j/test_data
 
 # Environment variables
 .env
