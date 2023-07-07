@@ -1,21 +1,29 @@
+---
 version: '3.8'
-
 services:
+  integration_tests:
+    build: ./integration_tests
+    volumes:
+      - ./integration_tests:/usr/src/tests
+    depends_on:
+      - api
+    environment:
+      - API_URL=http://api:4000
+    command: ["nodemon"]
   neo4j_test:
     image: neo4j:latest
     ports:
-      - "7475:7474" # HTTP
-      - "7688:7687" # Bolt
+      - '7475:7474'
+      - '7688:7687'
     volumes:
       - ./neo4j/test_data:/data
       - ./neo4j/conf:/conf
     environment:
       - NEO4J_AUTH=${NEO4J_TEST_USERNAME}/${NEO4J_TEST_PASSWORD}
-
   api:
     build: ./api
     ports:
-      - "4001:4000"
+      - '4001:4000'
     volumes:
       - ./api:/usr/src/app
       - /usr/src/app/node_modules
